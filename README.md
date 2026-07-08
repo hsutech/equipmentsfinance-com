@@ -1,6 +1,8 @@
-# equipmentsfinance.com
+# equipmentsfinance-com
 
-Static site for equipmentsfinance.com.
+Eleventy / 11ty source site.
 
-Source factory repository: git@github.com:erikhsu70/pbns.git
-Cloudflare Pages project: equipmentsfinance-com
+- Source: `src/`
+- Build command: `npm run build`
+- Output: `dist/`
+- Cloudflare Pages project: `equipmentsfinance-com`
