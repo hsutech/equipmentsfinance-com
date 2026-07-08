@@ -1,0 +1,22 @@
+{
+  "domain": "equipmentsfinance.com",
+  "source_snapshot": "https://web.archive.org/web/20250522102619/https://www.equipmentsfinance.com/",
+  "source_local_html": "rebuild/source/home-20250522102619.html",
+  "strategy": "Manual static rebuild from the exact Elementor/WordPress home snapshot.",
+  "matched_sections": [
+    "Header with logo, menu and APPLY button",
+    "Hero/slider service message",
+    "Your Partner in Equipment Financing intro",
+    "Explore Our Financing Solutions",
+    "Why Finance Your Equipment with Us",
+    "How Our Financing Process Works",
+    "Equipment category visual grid",
+    "Why Businesses Trust Equipments Finance",
+    "CTA and dark footer"
+  ],
+  "asset_notes": [
+    "Archive.org returned HTML instead of binary image assets for the exact captured upload URLs, so this first pass uses CSS-built visual panels and text logo styling.",
+    "If original image binaries are provided or recoverable from another snapshot, replace the CSS visual tiles with the original logo and service images."
+  ],
+  "status": "home_rebuilt_for_review"
+}

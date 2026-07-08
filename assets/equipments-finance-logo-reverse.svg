@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="96" viewBox="0 0 360 96" role="img" aria-labelledby="title desc">
+  <title id="title">Equipments Finance</title>
+  <desc id="desc">Reverse Equipments Finance logo for dark backgrounds.</desc>
+  <defs>
+    <linearGradient id="markGradient" x1="10" y1="14" x2="84" y2="84" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8BA8C1"/>
+      <stop offset="1" stop-color="#1F5F99"/>
+    </linearGradient>
+  </defs>
+  <rect x="8" y="8" width="80" height="80" rx="18" fill="url(#markGradient)"/>
+  <text x="21" y="61" fill="#fff" font-family="Montserrat, Cabin, Segoe UI, Arial, sans-serif" font-size="34" font-weight="900" letter-spacing="-3">EF</text>
+  <path d="M28 70h46" stroke="#fff" stroke-width="4" stroke-linecap="round" opacity=".72"/>
+  <path d="M80 23l-12 12" stroke="#fff" stroke-width="4" stroke-linecap="round" opacity=".72"/>
+  <text x="108" y="45" fill="#FFFFFF" font-family="Montserrat, Cabin, Segoe UI, Arial, sans-serif" font-size="28" font-weight="800" letter-spacing="-.4">Equipments</text>
+  <text x="108" y="72" fill="#B8CADB" font-family="Montserrat, Cabin, Segoe UI, Arial, sans-serif" font-size="26" font-weight="800" letter-spacing="-.3">Finance</text>
+  <path d="M246 66h80" stroke="#8BA8C1" stroke-width="4" stroke-linecap="round"/>
+</svg>
