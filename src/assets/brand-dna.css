@@ -41,7 +41,7 @@ nav a:hover,.site-nav a:hover,nav a[aria-current=page],.site-nav a[aria-current=
 h1,h2,h3,.hero h1,.page-heading h1{
   font-family:var(--dna-heading);
   color:var(--dna-ink);
-  letter-spacing:0;
+  letter-spacing:-.005em;
 }
 .eyebrow,.service-card span,.solution-card span,.category-card span,.collection-card span,.article-card span,.post-card span,.blog-strip span{
   color:var(--dna-accent)!important;
@@ -116,6 +116,15 @@ h1,h2,h3,.hero h1,.page-heading h1{
 .service-card,.solution-card,.post-card{border-left:3px solid var(--dna-accent)!important}
 .site-header{padding-top:10px!important;padding-bottom:10px!important}
 
+
+
+.site-header{border-bottom:1px solid var(--dna-line)}
+nav,.main-nav{gap:28px!important}
+.hero{min-height:650px}
+.hero-panel{border-radius:4px!important;border-top:5px solid var(--dna-accent)!important}
+.button,.apply-btn{border-radius:999px!important;text-transform:uppercase;letter-spacing:.06em}
+.metric-strip .metrics{transform:translateY(-24px)}
+.service-card,.solution-card{border-radius:4px!important}
 
 @media (max-width:980px){
   .hero,.split,.feature-row,.intro-grid,.story-grid,.form-section,.split-section,.article-layout{grid-template-columns:1fr!important}
