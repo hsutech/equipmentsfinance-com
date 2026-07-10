@@ -6,8 +6,8 @@
   --dna-line:#dfe2dc;
   --dna-radius:4px;
   --dna-shadow:0 22px 44px rgba(16,25,35,.13);
-  --dna-heading:Inter, ui-sans-serif, system-ui, sans-serif;
-  --dna-font:Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --dna-heading:system-ui, Segoe UI, Roboto, Arial, sans-serif;
+  --dna-font:system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Arial, sans-serif;
 }
 body{
   font-family:var(--dna-font);
