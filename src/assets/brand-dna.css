@@ -140,4 +140,52 @@ nav,.main-nav{gap:28px!important}
 @media (max-width:620px){
   .services-grid,.solution-grid,.category-grid,.collection-grid,.post-grid,.article-grid{grid-template-columns:1fr!important}
   .hero h1{font-size:38px}
+
+  .site-header{
+    min-height:0!important;
+    padding:0!important;
+  }
+  .header-inner{
+    width:100%;
+    padding:14px 20px 16px;
+    gap:14px!important;
+    align-items:center!important;
+  }
+  .brand-logo{width:190px!important}
+  .main-nav{
+    display:grid!important;
+    grid-template-columns:repeat(3,minmax(0,1fr));
+    width:100%;
+    gap:8px!important;
+    align-items:stretch;
+  }
+  .main-nav a{
+    display:flex;
+    min-width:0;
+    min-height:36px;
+    align-items:center;
+    justify-content:center;
+    padding:7px 5px;
+    font-size:12px;
+    line-height:1.15;
+    text-align:center;
+  }
+  .main-nav a:not(.apply-btn)::after{display:none}
+  .main-nav .apply-btn{
+    min-height:36px;
+    padding:7px 10px;
+    border-radius:4px!important;
+  }
 }
+
+/* Readability overrides: keep light text on dark sections */
+.page-hero, .page-hero h1, .page-hero h2, .page-hero h3, .page-hero p, .page-hero .eyebrow,
+.cta, .cta h1, .cta h2, .cta h3, .cta p,
+.site-footer, .site-footer h1, .site-footer h2, .site-footer h3, .site-footer h4 {
+  color: #fff !important;
+}
+.page-hero p { color: #dbe9f8 !important; }
+.cta p { color: rgba(255,255,255,.85) !important; }
+.site-footer p, .site-footer li, .site-footer a { color: #cbd8e8 !important; }
+.site-footer a:hover { color: #fff !important; }
+.hero-note, .hero-note * { color: #fff !important; }
