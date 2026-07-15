@@ -1,15 +1,27 @@
 {
   "domain": "equipmentsfinance.com",
-  "lastUpdated": "2026-07-15T00:00:00+02:00",
+  "lastUpdated": "2026-07-15T09:15:00+02:00",
   "items": [
     {
       "keyword": "best equipment financing companies in the USA",
       "priority": "Alta",
-      "status": "pushed_pending_verification",
+      "status": "published",
       "slug": "best-equipment-financing-companies-usa",
       "title": "Best Equipment Financing Companies in the USA",
       "url": "https://equipmentsfinance.com/blog/best-equipment-financing-companies-usa/",
       "publicationDate": "2026-07-15",
+      "commit": "c3379b5",
+      "verifiedAt": "2026-07-15T09:15:00+02:00",
+      "verification": {
+        "articleHttpStatus": 200,
+        "imageHttpStatus": 200,
+        "h1": "Best Equipment Financing Companies in the USA",
+        "canonical": "https://equipmentsfinance.com/blog/best-equipment-financing-companies-usa/",
+        "blogIndex": "present",
+        "sitemap": "present",
+        "desktopRender": "passed",
+        "mobileRender": "passed"
+      },
       "serpObservations": {
         "intent": "Commercial BOFU comparison for U.S. business owners evaluating equipment loans, lenders and marketplaces.",
         "pageTypes": "Listicles and comparison pages with lender tables, methodology, pros/cons, how-to-apply sections and FAQs.",
@@ -22,7 +34,7 @@
         "https://www.sba.gov/funding-programs/loans/504-loans",
         "https://www.irs.gov/publications/p946"
       ],
-      "notes": "Initial state is pending verification; update to published only after custom-domain QA passes."
+      "notes": "Published after custom-domain QA passed."
     }
   ]
 }
