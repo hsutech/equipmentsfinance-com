@@ -1,0 +1,28 @@
+{
+  "domain": "equipmentsfinance.com",
+  "lastUpdated": "2026-07-15T00:00:00+02:00",
+  "items": [
+    {
+      "keyword": "best equipment financing companies in the USA",
+      "priority": "Alta",
+      "status": "pushed_pending_verification",
+      "slug": "best-equipment-financing-companies-usa",
+      "title": "Best Equipment Financing Companies in the USA",
+      "url": "https://equipmentsfinance.com/blog/best-equipment-financing-companies-usa/",
+      "publicationDate": "2026-07-15",
+      "serpObservations": {
+        "intent": "Commercial BOFU comparison for U.S. business owners evaluating equipment loans, lenders and marketplaces.",
+        "pageTypes": "Listicles and comparison pages with lender tables, methodology, pros/cons, how-to-apply sections and FAQs.",
+        "coverage": "Top relevant results cover lender categories, credit/revenue requirements, loan amounts, collateral, SBA 7(a)/504 alternatives and equipment financing versus leasing.",
+        "gaps": "Many results emphasize provider rankings and rates; the article adds asset-fit, documentation, ownership, repayment cadence and practical questions before applying."
+      },
+      "sources": [
+        "https://www.wsj.com/buyside/personal-finance/business-loans/business-equipment-loans",
+        "https://www.sba.gov/funding-programs/loans/7a-loans",
+        "https://www.sba.gov/funding-programs/loans/504-loans",
+        "https://www.irs.gov/publications/p946"
+      ],
+      "notes": "Initial state is pending verification; update to published only after custom-domain QA passes."
+    }
+  ]
+}
