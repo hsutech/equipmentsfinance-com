@@ -1,6 +1,6 @@
 {
   "domain": "equipmentsfinance.com",
-  "lastUpdated": "2026-07-15T09:15:00+02:00",
+  "lastUpdated": "2026-07-17T11:20:00+02:00",
   "items": [
     {
       "keyword": "best equipment financing companies in the USA",
@@ -35,6 +35,36 @@
         "https://www.irs.gov/publications/p946"
       ],
       "notes": "Published after custom-domain QA passed."
+    },
+    {
+      "keyword": "best equipment financing companies in Texas",
+      "priority": "Alta",
+      "status": "draft_reviewed",
+      "slug": "best-equipment-financing-companies-texas",
+      "title": "Best Equipment Financing Companies in Texas",
+      "url": "https://equipmentsfinance.com/blog/best-equipment-financing-companies-texas/",
+      "publicationDate": "2026-07-17",
+      "serpObservations": {
+        "intent": "Commercial BOFU comparison for Texas business owners choosing equipment lenders, marketplaces, banks and SBA-backed options.",
+        "pageTypes": "Relevant results are mostly listicles and comparison pages with provider tables, lender fit labels, qualification notes, application steps, FAQs, author/editor signals and external finance references. Local Texas results skew toward bank/product pages rather than neutral comparisons.",
+        "coverage": "Top results cover national equipment-loan options, marketplace/direct-lender choices, SBA 7(a), SBA 504, loan amounts, lender speed, credit profile, equipment loans versus leasing and alternatives. Texas-specific results include local banks, credit unions, BBB/company profiles and equipment sellers with financing pages.",
+        "gaps": "The article adds Texas-specific seller timing, local industry fit, disclosure awareness, SBDC guidance and a clearer local-versus-national comparison to avoid duplicating the national article."
+      },
+      "sources": [
+        "https://www.finder.com/business-loans/best-equipment-financing-companies",
+        "https://www.techrepublic.com/article/best-equipment-financing-companies/",
+        "https://www.forbes.com/advisor/business-loans/best-equipment-financing/",
+        "https://www.bankrate.com/loans/small-business/best-equipment-business-loans/",
+        "https://www.lendio.com/business-loans/equipment-financing",
+        "https://www.wsj.com/buyside/personal-finance/business-loans/business-equipment-loans",
+        "https://www.sba.gov/funding-programs/loans/7a-loans",
+        "https://www.sba.gov/funding-programs/loans/504-loans",
+        "https://www.irs.gov/publications/p946",
+        "https://www.sba.gov/local-assistance/resource-partners/small-business-development-centers-sbdc",
+        "https://www.americanbank.com/business/loans/equipment-finance",
+        "https://www.amegybank.com/business/business-financing/equipment-financing/"
+      ],
+      "notes": "Selected as the next high-priority pending workbook keyword after duplicate/cannibalization checks found no exact match. Prior local draft reconciled and dated for the 2026-07-17 publication run."
     }
   ]
 }
