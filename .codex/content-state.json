@@ -1,6 +1,6 @@
 {
   "domain": "equipmentsfinance.com",
-  "lastUpdated": "2026-07-20T00:00:00+02:00",
+  "lastUpdated": "2026-07-20T22:29:00+02:00",
   "items": [
     {
       "keyword": "best equipment financing companies in the USA",
@@ -74,7 +74,7 @@
       "keyword": "equipment financing vs small business loan machinery",
       "requiredAnchor": "small business financing community",
       "requiredDestination": "https://www.reddit.com/r/loansforsmallbusiness/",
-      "status": "committed_pending_push",
+      "status": "published_verified",
       "slug": "equipment-financing-vs-small-business-loan-machinery",
       "title": "Equipment Financing vs Small Business Loan: Which Is Better for Buying Machinery?",
       "url": "https://equipmentsfinance.com/blog/equipment-financing-vs-small-business-loan-machinery/",
@@ -107,9 +107,23 @@
       "build": {
         "npmRunBuild": "blocked_hung_eleventy_cli",
         "fallbackOutput": "static source files copied into dist for artifact inspection",
-        "notes": "Eleventy CLI and eleventy --version hung locally; source HTML and copied dist output passed structural checks."
+        "notes": "Eleventy CLI and eleventy --version hung locally; source HTML and copied dist output passed structural checks.",
+        "publicDeploymentVerification": "passed_on_second_check"
       },
-      "commit": "8f6c0e8"
+      "commit": "9d393ae",
+      "verifiedAt": "2026-07-20T22:29:00+02:00",
+      "verification": {
+        "checksAttempted": 2,
+        "articleHttpStatus": 200,
+        "imageHttpStatus": 200,
+        "h1": "Equipment Financing vs Small Business Loan: Which Is Better for Buying Machinery?",
+        "canonical": "https://equipmentsfinance.com/blog/equipment-financing-vs-small-business-loan-machinery/",
+        "featuredImage": "https://equipmentsfinance.com/assets/equipment-financing-vs-small-business-loan-machinery.jpg",
+        "blogIndex": "present",
+        "sitemap": "present",
+        "redditLinkExactCount": 1,
+        "publicUrl": "https://equipmentsfinance.com/blog/equipment-financing-vs-small-business-loan-machinery/"
+      }
     }
   ]
 }
