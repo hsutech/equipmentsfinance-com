@@ -1,6 +1,6 @@
 {
   "domain": "equipmentsfinance.com",
-  "lastUpdated": "2026-07-17T11:20:00+02:00",
+  "lastUpdated": "2026-07-20T00:00:00+02:00",
   "items": [
     {
       "keyword": "best equipment financing companies in the USA",
@@ -65,6 +65,51 @@
         "https://www.amegybank.com/business/business-financing/equipment-financing/"
       ],
       "notes": "Selected as the next high-priority pending workbook keyword after duplicate/cannibalization checks found no exact match. Prior local draft reconciled and dated for the 2026-07-17 publication run."
+    }
+  ],
+  "extraCampaigns": [
+    {
+      "campaign": "Extra Reddit | equipmentsfinance.com",
+      "topic": "Equipment Financing vs Small Business Loan: Which Is Better for Buying Machinery?",
+      "keyword": "equipment financing vs small business loan machinery",
+      "requiredAnchor": "small business financing community",
+      "requiredDestination": "https://www.reddit.com/r/loansforsmallbusiness/",
+      "status": "committed_pending_push",
+      "slug": "equipment-financing-vs-small-business-loan-machinery",
+      "title": "Equipment Financing vs Small Business Loan: Which Is Better for Buying Machinery?",
+      "url": "https://equipmentsfinance.com/blog/equipment-financing-vs-small-business-loan-machinery/",
+      "publicationDate": "2026-07-20",
+      "extraCampaign": true,
+      "normalQueueChanged": false,
+      "serpObservations": {
+        "intent": "U.S. commercial/informational comparison for business owners choosing between asset-backed equipment financing and broader business term loans for machinery purchases.",
+        "pageTypes": "Top current results include comparison articles, equipment financing explainers, lender/listicle pages, bank articles and SBA program pages. Common elements are comparison tables, FAQs, qualification notes and loan-versus-lease context.",
+        "coverage": "Competitors cover basic purpose, collateral, terms, approval difficulty and flexible use of proceeds. Current SERP also surfaces SBA program information and fresh equipment financing guides.",
+        "gaps": "This article narrows the comparison to machinery purchases and adds useful-life fit, installation/soft-cost planning, documentation, total-cost review, FTC vetting guidance and a non-authoritative peer-discussion pointer."
+      },
+      "sources": [
+        "https://www.sba.gov/funding-programs/loans",
+        "https://www.sba.gov/funding-programs/loans/7a-loans",
+        "https://www.sba.gov/funding-programs/loans/504-loans",
+        "https://www.consumerfinance.gov/data-research/small-business-lending/",
+        "https://www.ftc.gov/business-guidance/blog/2021/06/back-business-3-looking-small-business-financing",
+        "https://fitsmallbusiness.com/equipment-financing-vs-business-loan-for-purchases/",
+        "https://www.nav.com/business-financing-options/equipment-financing/what-is-equipment-financing/",
+        "https://www.nerdwallet.com/business/loans/learn/equipment-financing",
+        "https://www.lendingtree.com/business/equipment/"
+      ],
+      "review": {
+        "factual": "Passed: financial facts grounded in SBA, CFPB and FTC sources; no quoted unsupported current rates.",
+        "editorial": "Passed: distinct machinery-focused angle, 1895 words, useful TOC, comparison table and FAQs.",
+        "legalRisk": "Passed: visible education disclaimer, no guarantees, no endorsements, Reddit framed only as peer discussion.",
+        "seo": "Passed: canonical, Article schema, Breadcrumb schema, FAQ schema matching visible FAQs, 5 internal links, 4 external links total, exact Reddit anchor once."
+      },
+      "build": {
+        "npmRunBuild": "blocked_hung_eleventy_cli",
+        "fallbackOutput": "static source files copied into dist for artifact inspection",
+        "notes": "Eleventy CLI and eleventy --version hung locally; source HTML and copied dist output passed structural checks."
+      },
+      "commit": "8f6c0e8"
     }
   ]
 }
