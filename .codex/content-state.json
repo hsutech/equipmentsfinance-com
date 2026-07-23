@@ -1,6 +1,6 @@
 {
   "domain": "equipmentsfinance.com",
-  "lastUpdated": "2026-07-20T22:29:00+02:00",
+  "lastUpdated": "2026-07-23T09:30:00+02:00",
   "items": [
     {
       "keyword": "best equipment financing companies in the USA",
@@ -39,11 +39,20 @@
     {
       "keyword": "best equipment financing companies in Texas",
       "priority": "Alta",
-      "status": "draft_reviewed",
+      "status": "published",
       "slug": "best-equipment-financing-companies-texas",
       "title": "Best Equipment Financing Companies in Texas",
       "url": "https://equipmentsfinance.com/blog/best-equipment-financing-companies-texas/",
       "publicationDate": "2026-07-17",
+      "commit": "7937ea7",
+      "verifiedAt": "2026-07-21T00:00:00+02:00",
+      "verification": {
+        "articleHttpStatus": 200,
+        "h1": "Best Equipment Financing Companies in Texas",
+        "canonical": "https://equipmentsfinance.com/blog/best-equipment-financing-companies-texas/",
+        "blogIndex": "present",
+        "sitemap": "present"
+      },
       "serpObservations": {
         "intent": "Commercial BOFU comparison for Texas business owners choosing equipment lenders, marketplaces, banks and SBA-backed options.",
         "pageTypes": "Relevant results are mostly listicles and comparison pages with provider tables, lender fit labels, qualification notes, application steps, FAQs, author/editor signals and external finance references. Local Texas results skew toward bank/product pages rather than neutral comparisons.",
@@ -64,7 +73,40 @@
         "https://www.americanbank.com/business/loans/equipment-finance",
         "https://www.amegybank.com/business/business-financing/equipment-financing/"
       ],
-      "notes": "Selected as the next high-priority pending workbook keyword after duplicate/cannibalization checks found no exact match. Prior local draft reconciled and dated for the 2026-07-17 publication run."
+      "notes": "Reconciled at start of 2026-07-21 run after custom-domain checks passed."
+    },
+    {
+      "keyword": "best truck equipment financing",
+      "priority": "Alta",
+      "status": "ready_for_verification",
+      "slug": "best-truck-equipment-financing",
+      "title": "Best Truck Equipment Financing Options for 2026",
+      "url": "https://equipmentsfinance.com/blog/best-truck-equipment-financing/",
+      "publicationDate": "2026-07-23",
+      "serpObservations": {
+        "intent": "Commercial BOFU comparison for U.S. business owners, owner-operators and small fleets comparing financing paths for commercial trucks, trailers, upfits and truck-mounted equipment.",
+        "pageTypes": "Top relevant results are listicles and comparison pages with lender shortlists, best-for labels, tables, requirements, lender-type explanations, author/editor signals and FAQs. Recent July 2026 results still skew toward semi-truck financing; broader truck equipment and upfit fit is less covered.",
+        "coverage": "Results cover banks, online lenders, direct truck lenders, dealer financing, SBA options, leasing, funding speed, credit and revenue requirements, down payments and documents. Competitors emphasize semi-truck loans more than box trucks, vocational units, trailers and upfit bundles.",
+        "gaps": "The article adds a category-based comparison, total-cost checklist, title and upfit documentation guidance, FMCSA compliance context and a clear distinction between financing, leasing, dealer/OEM paths, marketplaces and SBA-backed routes."
+      },
+      "sources": [
+        "https://ratings.freightwaves.com/best-trucking-financing-companies/",
+        "https://www.consumeraffairs.com/finance/commercial-truck-financing/",
+        "https://www.bankrate.com/loans/small-business/best-semi-truck-financing/",
+        "https://www.bankrate.com/loans/small-business/where-to-get-semi-truck-financing/",
+        "https://www.truckinfo.net/guide/semi-truck-financing",
+        "https://www.finder.com/business-loans/best-commercial-truck-loans",
+        "https://www.lendingtree.com/business/commercial-truck-financing/",
+        "https://ratings.freightwaves.com/best-trucking-equipment-financing-companies/",
+        "https://www.sba.gov/funding-programs/loans/7a-loans",
+        "https://www.irs.gov/publications/p946",
+        "https://www.fmcsa.dot.gov/registration"
+      ],
+      "review": {
+        "editorial": "Passed 2026-07-23: BOFU comparison intent, 2100+ article-body words, original category-based angle, clear direct answer, comparison table and FAQs.",
+        "seo": "Passed 2026-07-23: unique H1, title/meta, canonical, Open Graph, Article schema, Breadcrumb schema, FAQ schema, real internal links, four external article links, featured image alt and sitemap/blog index updates."
+      },
+      "notes": "Selected as the next high-priority pending workbook keyword after Texas reconciliation and duplicate/cannibalization checks; editorial and SERP review refreshed on 2026-07-23 before publication."
     }
   ],
   "extraCampaigns": [
