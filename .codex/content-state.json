@@ -1,6 +1,6 @@
 {
   "domain": "equipmentsfinance.com",
-  "lastUpdated": "2026-07-23T09:30:00+02:00",
+  "lastUpdated": "2026-07-23T09:22:00+02:00",
   "items": [
     {
       "keyword": "best equipment financing companies in the USA",
@@ -78,11 +78,24 @@
     {
       "keyword": "best truck equipment financing",
       "priority": "Alta",
-      "status": "ready_for_verification",
+      "status": "published",
       "slug": "best-truck-equipment-financing",
       "title": "Best Truck Equipment Financing Options for 2026",
       "url": "https://equipmentsfinance.com/blog/best-truck-equipment-financing/",
       "publicationDate": "2026-07-23",
+      "commit": "7fd60a1",
+      "verifiedAt": "2026-07-23T09:21:00+02:00",
+      "verification": {
+        "articleHttpStatus": 200,
+        "imageHttpStatus": 200,
+        "h1": "Best Truck Equipment Financing Options for 2026",
+        "canonical": "https://equipmentsfinance.com/blog/best-truck-equipment-financing/",
+        "featuredImage": "https://equipmentsfinance.com/assets/best-truck-equipment-financing.jpg",
+        "blogIndex": "present",
+        "sitemap": "present",
+        "desktopRender": "passed",
+        "mobileRender": "passed"
+      },
       "serpObservations": {
         "intent": "Commercial BOFU comparison for U.S. business owners, owner-operators and small fleets comparing financing paths for commercial trucks, trailers, upfits and truck-mounted equipment.",
         "pageTypes": "Top relevant results are listicles and comparison pages with lender shortlists, best-for labels, tables, requirements, lender-type explanations, author/editor signals and FAQs. Recent July 2026 results still skew toward semi-truck financing; broader truck equipment and upfit fit is less covered.",
