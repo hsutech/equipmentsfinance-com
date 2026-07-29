@@ -1,6 +1,6 @@
 {
   "domain": "equipmentsfinance.com",
-  "lastUpdated": "2026-07-23T09:22:00+02:00",
+  "lastUpdated": "2026-07-29T00:00:00+02:00",
   "items": [
     {
       "keyword": "best equipment financing companies in the USA",
@@ -120,6 +120,37 @@
         "seo": "Passed 2026-07-23: unique H1, title/meta, canonical, Open Graph, Article schema, Breadcrumb schema, FAQ schema, real internal links, four external article links, featured image alt and sitemap/blog index updates."
       },
       "notes": "Selected as the next high-priority pending workbook keyword after Texas reconciliation and duplicate/cannibalization checks; editorial and SERP review refreshed on 2026-07-23 before publication."
+    },
+    {
+      "keyword": "best construction equipment financing",
+      "priority": "Alta",
+      "status": "draft_reviewed",
+      "slug": "best-construction-equipment-financing",
+      "title": "Best Construction Equipment Financing Options for 2026",
+      "url": "https://equipmentsfinance.com/blog/best-construction-equipment-financing/",
+      "publicationDate": "2026-07-29",
+      "serpObservations": {
+        "intent": "Commercial BOFU comparison for U.S. and Texas contractors comparing financing paths for excavators, skid steers, loaders, lifts, attachments, dump trucks and jobsite support equipment.",
+        "pageTypes": "Top relevant results are listicles and comparison guides with lender tables, best-for labels, methodology, qualification notes, loan-versus-lease sections, author/editor signals, tables of contents and FAQs.",
+        "coverage": "SERP covers general equipment lenders, construction/heavy equipment loan rankings, SBA-backed routes, rates/terms, borrower qualifications, leases, used equipment, loan-versus-lease decisions and application documents.",
+        "gaps": "The article adds contractor-specific asset-fit guidance around hours, serial numbers, attachments, private sellers, auctions, rental replacement, job timing, useful life and cash-flow timing, while avoiding cannibalization of the service landing page."
+      },
+      "sources": [
+        "https://www.finder.com/business-loans/best-equipment-financing-companies",
+        "https://www.nerdwallet.com/business/loans/best/heavy-equipment-financing",
+        "https://zipdo.co/service/construction-equipment-financing/",
+        "https://www.lendingtree.com/business/heavy-equipment-financing/",
+        "https://fitsmallbusiness.com/best-equipment-financing-companies/",
+        "https://www.nerdwallet.com/business/loans/learn/equipment-financing",
+        "https://www.sba.gov/funding-programs/loans/7a-loans",
+        "https://www.sba.gov/funding-programs/loans/504-loans",
+        "https://www.irs.gov/publications/p946"
+      ],
+      "review": {
+        "editorial": "Passed draft review 2026-07-29: BOFU comparison intent, original contractor/jobsite angle, direct answer, comparison table, FAQs and non-promotional company mention; removed internal SERP wording from reader-facing copy.",
+        "seo": "Passed draft review 2026-07-29: unique H1, title/meta, canonical, Open Graph, Article schema, Breadcrumb schema, FAQ schema, real internal links, external authoritative sources, featured image alt and sitemap/blog index updates."
+      },
+      "notes": "Selected as the next high-priority pending workbook keyword after USA, Texas and truck topics were already published; pending live deployment verification before marking published."
     }
   ],
   "extraCampaigns": [
