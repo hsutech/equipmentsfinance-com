@@ -1,6 +1,6 @@
 {
   "domain": "equipmentsfinance.com",
-  "lastUpdated": "2026-07-29T00:00:00+02:00",
+  "lastUpdated": "2026-07-29T09:19:25+02:00",
   "items": [
     {
       "keyword": "best equipment financing companies in the USA",
@@ -124,7 +124,7 @@
     {
       "keyword": "best construction equipment financing",
       "priority": "Alta",
-      "status": "draft_reviewed",
+      "status": "published",
       "slug": "best-construction-equipment-financing",
       "title": "Best Construction Equipment Financing Options for 2026",
       "url": "https://equipmentsfinance.com/blog/best-construction-equipment-financing/",
@@ -150,7 +150,26 @@
         "editorial": "Passed draft review 2026-07-29: BOFU comparison intent, original contractor/jobsite angle, direct answer, comparison table, FAQs and non-promotional company mention; removed internal SERP wording from reader-facing copy.",
         "seo": "Passed draft review 2026-07-29: unique H1, title/meta, canonical, Open Graph, Article schema, Breadcrumb schema, FAQ schema, real internal links, external authoritative sources, featured image alt and sitemap/blog index updates."
       },
-      "notes": "Selected as the next high-priority pending workbook keyword after USA, Texas and truck topics were already published; pending live deployment verification before marking published."
+      "build": {
+        "localNpmRunBuild": "stopped_after_120s_existing_eleventy_hang",
+        "githubActionsBuild": "success",
+        "githubActionsRun": "https://github.com/hsutech/equipmentsfinance-com/actions/runs/30430882141"
+      },
+      "commit": "a4000b2",
+      "verifiedAt": "2026-07-29T09:19:25+02:00",
+      "verification": {
+        "checksAttempted": 2,
+        "articleHttpStatus": 200,
+        "imageHttpStatus": 200,
+        "h1": "Best Construction Equipment Financing Options for 2026",
+        "canonical": "https://equipmentsfinance.com/blog/best-construction-equipment-financing/",
+        "featuredImage": "https://equipmentsfinance.com/assets/best-construction-equipment-financing.jpg",
+        "blogIndex": "present",
+        "sitemap": "present",
+        "desktopRender": "passed",
+        "mobileRender": "passed"
+      },
+      "notes": "Selected as the next high-priority pending workbook keyword after USA, Texas and truck topics were already published; custom-domain verification passed on the second live attempt after GitHub Actions/Cloudflare deployment completed."
     }
   ],
   "extraCampaigns": [
