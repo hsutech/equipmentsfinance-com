@@ -1,6 +1,6 @@
 {
   "domain": "equipmentsfinance.com",
-  "lastUpdated": "2026-07-30T00:00:00+02:00",
+  "lastUpdated": "2026-07-30T10:45:00+02:00",
   "items": [
     {
       "keyword": "best equipment financing companies in the USA",
@@ -174,7 +174,7 @@
     {
       "keyword": "best medical equipment financing",
       "priority": "Alta",
-      "status": "draft_reviewed",
+      "status": "published",
       "slug": "best-medical-equipment-financing",
       "title": "Best Medical Equipment Financing Options for 2026",
       "url": "https://equipmentsfinance.com/blog/best-medical-equipment-financing/",
@@ -198,9 +198,25 @@
       },
       "build": {
         "localNpmRunBuild": "stopped_after_90s_existing_eleventy_hang",
-        "notes": "Source HTML passed structural checks; local server bind was blocked by sandbox permissions."
+        "githubActionsBuild": "success",
+        "githubActionsRun": "https://github.com/hsutech/equipmentsfinance-com/actions/runs/30527651025",
+        "notes": "Source HTML passed structural checks; local static server bind was blocked by sandbox permissions."
       },
-      "notes": "Selected as the next high-priority pending workbook keyword after USA, Texas, truck and construction topics were already published; pending live deployment verification before marking published."
+      "notes": "Selected as the next high-priority pending workbook keyword after USA, Texas, truck and construction topics were already published; custom-domain verification passed after GitHub Actions/Cloudflare deployment completed.",
+      "commit": "1c6f456",
+      "verifiedAt": "2026-07-30T10:45:00+02:00",
+      "verification": {
+        "checksAttempted": 1,
+        "articleHttpStatus": 200,
+        "imageHttpStatus": 200,
+        "h1": "Best Medical Equipment Financing Options for 2026",
+        "canonical": "https://equipmentsfinance.com/blog/best-medical-equipment-financing/",
+        "featuredImage": "https://equipmentsfinance.com/assets/best-medical-equipment-financing.jpg",
+        "blogIndex": "present",
+        "sitemap": "present",
+        "desktopRender": "passed",
+        "mobileRender": "passed"
+      }
     }
   ],
   "extraCampaigns": [
