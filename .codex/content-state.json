@@ -1,6 +1,6 @@
 {
   "domain": "equipmentsfinance.com",
-  "lastUpdated": "2026-08-04T12:00:00+02:00",
+  "lastUpdated": "2026-08-04T13:18:31+02:00",
   "items": [
     {
       "keyword": "best equipment financing companies in the USA",
@@ -221,7 +221,7 @@
     {
       "keyword": "best restaurant equipment financing",
       "priority": "Alta",
-      "status": "pushed_pending_verification",
+      "status": "published",
       "slug": "best-restaurant-equipment-financing",
       "title": "Best Restaurant Equipment Financing Options for 2026",
       "url": "https://equipmentsfinance.com/blog/best-restaurant-equipment-financing/",
@@ -248,10 +248,26 @@
       },
       "build": {
         "localNpmRunBuild": "stopped_after_90s_existing_eleventy_hang",
+        "githubActionsBuild": "success",
+        "githubActionsRun": "https://github.com/hsutech/equipmentsfinance-com/actions/runs/30904087594",
         "localPreview": "passed_static_html_checks; local HTTP server started on port 49173 but Playwright browser binary missing, so browser screenshots were deferred to live-domain verification",
         "notes": "Source HTML passed structural checks: 2301 words, H1/canonical/OG image, 4 body internal links, 4 external links, FAQ schema and blog/sitemap presence."
       },
-      "notes": "Selected as the next high-priority pending workbook keyword after USA, Texas, truck, construction and medical topics were already published. Awaiting live custom-domain verification before marking published."
+      "commit": "3c159e8",
+      "verifiedAt": "2026-08-04T13:18:31+02:00",
+      "verification": {
+        "checksAttempted": 2,
+        "articleHttpStatus": 200,
+        "imageHttpStatus": 200,
+        "h1": "Best Restaurant Equipment Financing Options for 2026",
+        "canonical": "https://equipmentsfinance.com/blog/best-restaurant-equipment-financing/",
+        "featuredImage": "https://equipmentsfinance.com/assets/best-restaurant-equipment-financing.jpg",
+        "blogIndex": "present",
+        "sitemap": "present",
+        "desktopRender": "passed_by_live_html_responsive_css_and_image_checks",
+        "mobileRender": "passed_by_live_html_responsive_css_and_image_checks"
+      },
+      "notes": "Selected as the next high-priority pending workbook keyword after USA, Texas, truck, construction and medical topics were already published; custom-domain verification passed on the second live attempt after GitHub Actions/Cloudflare deployment completed."
     }
   ],
   "extraCampaigns": [
