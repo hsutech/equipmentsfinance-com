@@ -1,6 +1,6 @@
 {
   "domain": "equipmentsfinance.com",
-  "lastUpdated": "2026-07-30T10:45:00+02:00",
+  "lastUpdated": "2026-08-04T12:00:00+02:00",
   "items": [
     {
       "keyword": "best equipment financing companies in the USA",
@@ -217,6 +217,41 @@
         "desktopRender": "passed",
         "mobileRender": "passed"
       }
+    },
+    {
+      "keyword": "best restaurant equipment financing",
+      "priority": "Alta",
+      "status": "pushed_pending_verification",
+      "slug": "best-restaurant-equipment-financing",
+      "title": "Best Restaurant Equipment Financing Options for 2026",
+      "url": "https://equipmentsfinance.com/blog/best-restaurant-equipment-financing/",
+      "publicationDate": "2026-08-04",
+      "serpObservations": {
+        "intent": "Commercial BOFU comparison for U.S. and Texas restaurant operators comparing financing paths for kitchen equipment, refrigeration, POS hardware, food trucks, fixtures and replacement assets.",
+        "pageTypes": "Top relevant results are listicles and comparison guides with lender tables, best-for labels, qualification notes, author/editor signals, leasing explanations, application guidance and FAQs. Several recent results include restaurant-specific equipment lists and lender categories.",
+        "coverage": "SERP covers SBA loans, equipment financing, bank loans, online lenders, lines of credit, vendor/dealer financing, leasing, startup restaurants, credit requirements, funding speed and restaurant equipment categories such as refrigeration, ovens, dishwashers and POS systems.",
+        "gaps": "The article adds kitchen-package underwriting fit, installation and permit timing, local food-code context, used-equipment detail, repayment cadence and ownership outcome while avoiding cannibalization of the restaurant equipment service page."
+      },
+      "sources": [
+        "https://www.nerdwallet.com/business/loans/best/restaurant-equipment",
+        "https://restaurantequipmentfinancing.guide/comparisons/restaurant-equipment-financing-companies/",
+        "https://www.finder.com/business-loans/best-equipment-financing-companies",
+        "https://www.gofoodservice.com/guides/restaurant-financing",
+        "https://merchants.doordash.com/en-us/blog/restaurant-equipment-financing",
+        "https://www.fda.gov/food/retail-food-protection/fda-food-code",
+        "https://www.sba.gov/funding-programs/loans",
+        "https://www.irs.gov/publications/p946"
+      ],
+      "review": {
+        "editorial": "Passed draft review 2026-08-04: BOFU listicle intent, original restaurant kitchen-package angle, direct answer, comparison table, FAQs and non-promotional company mention; removed internal SERP wording from reader-facing copy.",
+        "seo": "Passed draft review 2026-08-04: unique H1, title/meta, canonical, Open Graph, Article schema, Breadcrumb schema, FAQ schema, four body internal links, four external article links, featured image alt and sitemap/blog index updates."
+      },
+      "build": {
+        "localNpmRunBuild": "stopped_after_90s_existing_eleventy_hang",
+        "localPreview": "passed_static_html_checks; local HTTP server started on port 49173 but Playwright browser binary missing, so browser screenshots were deferred to live-domain verification",
+        "notes": "Source HTML passed structural checks: 2301 words, H1/canonical/OG image, 4 body internal links, 4 external links, FAQ schema and blog/sitemap presence."
+      },
+      "notes": "Selected as the next high-priority pending workbook keyword after USA, Texas, truck, construction and medical topics were already published. Awaiting live custom-domain verification before marking published."
     }
   ],
   "extraCampaigns": [
