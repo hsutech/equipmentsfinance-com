@@ -1,6 +1,6 @@
 {
   "domain": "equipmentsfinance.com",
-  "lastUpdated": "2026-08-04T13:18:31+02:00",
+  "lastUpdated": "2026-08-09T09:11:02+02:00",
   "items": [
     {
       "keyword": "best equipment financing companies in the USA",
@@ -268,6 +268,39 @@
         "mobileRender": "passed_by_live_html_responsive_css_and_image_checks"
       },
       "notes": "Selected as the next high-priority pending workbook keyword after USA, Texas, truck, construction and medical topics were already published; custom-domain verification passed on the second live attempt after GitHub Actions/Cloudflare deployment completed."
+    },
+    {
+      "keyword": "best farm equipment financing",
+      "priority": "Alta",
+      "status": "pushed_pending_verification",
+      "slug": "best-farm-equipment-financing",
+      "title": "Best Farm Equipment Financing Options for 2026",
+      "url": "https://equipmentsfinance.com/blog/best-farm-equipment-financing/",
+      "publicationDate": "2026-08-09",
+      "serpObservations": {
+        "intent": "Commercial BOFU comparison for U.S. and Texas farm/ranch operators comparing financing paths for tractors, combines, implements, irrigation systems, trailers and used agricultural machinery.",
+        "pageTypes": "Top relevant results are listicles and comparison guides with lender tables, best-for labels, qualification notes, author/editor signals, FAQ sections and agriculture-specific lender pages. The SERP also includes official FSA and SBA program pages plus AgDirect/Farm Credit product pages.",
+        "coverage": "SERP covers FSA direct operating loans, SBA 7(a), Farm Credit/AgDirect, banks, online equipment lenders, dealer financing, leasing, used equipment, repayment terms, credit requirements and application documentation.",
+        "gaps": "The article adds producer-specific guidance around crop and livestock cash-flow timing, dealer versus auction versus private-party sellers, lien checks, seasonal payments, useful life, refinance/lease outcomes and Texas/U.S. agricultural machinery context while avoiding cannibalization of the agricultural machinery service page."
+      },
+      "sources": [
+        "https://www.nerdwallet.com/business/loans/best/farm-equipment",
+        "https://www.fsa.usda.gov/resources/loans/farm-operating-loans",
+        "https://www.fsa.usda.gov/about-fsa/structure-organization/farm-loan-programs",
+        "https://www.agdirect.com/financing",
+        "https://www.sba.gov/funding-programs/loans/7a-loans",
+        "https://www.irs.gov/publications/p946"
+      ],
+      "review": {
+        "editorial": "Passed draft review 2026-08-09: BOFU listicle intent, original farm cash-flow/seller-type angle, direct answer, comparison table, FAQs and non-promotional company mention.",
+        "seo": "Passed draft review 2026-08-09: unique H1, title/meta, canonical, Open Graph, Article schema, Breadcrumb schema, FAQ schema, four body internal links, four external body links, featured image alt and sitemap/blog index updates."
+      },
+      "build": {
+        "localNpmRunBuild": "stopped_after_90s_existing_eleventy_hang",
+        "localPreview": "passed_static_html_checks",
+        "notes": "Source HTML passed structural checks: 2301 article-body words, H1/canonical/OG image, 4 body internal links, 4 body external links, FAQ schema and blog/sitemap presence."
+      },
+      "notes": "Selected as the next high-priority pending workbook keyword after USA, Texas, truck, construction, medical and restaurant topics were already published. Awaiting live custom-domain verification before marking published."
     }
   ],
   "extraCampaigns": [
