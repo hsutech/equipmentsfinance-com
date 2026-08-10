@@ -1,6 +1,6 @@
 {
   "domain": "equipmentsfinance.com",
-  "lastUpdated": "2026-08-10T09:20:00+02:00",
+  "lastUpdated": "2026-08-10T09:14:30+02:00",
   "items": [
     {
       "keyword": "best equipment financing companies in the USA",
@@ -319,7 +319,7 @@
     {
       "keyword": "best heavy equipment financing",
       "priority": "Alta",
-      "status": "draft_reviewed",
+      "status": "published",
       "slug": "best-heavy-equipment-financing",
       "title": "Best Heavy Equipment Financing Options for 2026",
       "url": "https://equipmentsfinance.com/blog/best-heavy-equipment-financing/",
@@ -349,7 +349,21 @@
         "localPreview": "passed_in_app_browser_desktop_mobile",
         "notes": "Source and dist HTML passed structural checks: 2237 article-body words, unique H1, canonical, OG image, 5 body internal links, 4 body external links, FAQ schema, blog index and sitemap presence; local browser checks passed for desktop and mobile image/canonical/overflow."
       },
-      "notes": "Selected as the next high-priority pending workbook keyword after USA, Texas, truck, construction, medical, restaurant and farm topics were already published; draft deliberately avoids construction-page cannibalization by covering broad heavy equipment financing paths."
+      "notes": "Selected as the next high-priority pending workbook keyword after USA, Texas, truck, construction, medical, restaurant and farm topics were already published; custom-domain verification passed on the second live attempt after Cloudflare deployment completed.",
+      "commit": "bbce57f",
+      "verifiedAt": "2026-08-10T09:14:30+02:00",
+      "verification": {
+        "checksAttempted": 2,
+        "articleHttpStatus": 200,
+        "imageHttpStatus": 200,
+        "h1": "Best Heavy Equipment Financing Options for 2026",
+        "canonical": "https://equipmentsfinance.com/blog/best-heavy-equipment-financing/",
+        "featuredImage": "https://equipmentsfinance.com/assets/best-heavy-equipment-financing.jpg",
+        "blogIndex": "present",
+        "sitemap": "present",
+        "desktopRender": "passed",
+        "mobileRender": "passed"
+      }
     }
   ],
   "extraCampaigns": [
