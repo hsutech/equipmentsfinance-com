@@ -1,6 +1,6 @@
 {
   "domain": "equipmentsfinance.com",
-  "lastUpdated": "2026-08-10T09:14:30+02:00",
+  "lastUpdated": "2026-08-13T00:00:00+02:00",
   "items": [
     {
       "keyword": "best equipment financing companies in the USA",
@@ -364,6 +364,80 @@
         "desktopRender": "passed",
         "mobileRender": "passed"
       }
+    },
+    {
+      "keyword": "best equipment financing for bad credit",
+      "priority": "Alta",
+      "status": "published",
+      "slug": "best-equipment-financing-for-bad-credit",
+      "title": "Best Equipment Financing for Bad Credit in 2026",
+      "url": "https://equipmentsfinance.com/blog/best-equipment-financing-for-bad-credit/",
+      "publicationDate": "2026-08-11",
+      "serpObservations": {
+        "intent": "Commercial BOFU comparison for U.S. and Texas business owners seeking equipment financing when personal credit is damaged, thin or recently challenged.",
+        "pageTypes": "Top relevant results include lender listicles and bad-credit equipment financing guides with lender tables, qualification notes, warnings about no-credit-check claims, author/editor signals and FAQs.",
+        "coverage": "SERP covers online equipment lenders, leases, marketplaces, down payments, credit-score ranges, no-credit-check cautions, SBA-backed options, documentation and application-strengthening steps.",
+        "gaps": "The article adds a compensating-factor framework around asset value, seller quality, cash flow, down payment, contract terms and repair/refinance alternatives while avoiding guaranteed-approval claims."
+      },
+      "sources": [
+        "https://www.nerdwallet.com/business/loans/learn/no-credit-check-equipment-financing",
+        "https://fitsmallbusiness.com/equipment-financing-bad-credit/",
+        "https://www.myfico.com/credit-education/credit-scores",
+        "https://www.sba.gov/funding-programs/loans/7a-loans",
+        "https://www.irs.gov/publications/p946"
+      ],
+      "review": {
+        "editorial": "Reconciled 2026-08-13: BOFU bad-credit comparison intent, direct answer, comparison table, FAQs, no fabricated reviews/prices/experience and cautious no-guarantee language.",
+        "seo": "Reconciled 2026-08-13: unique H1, title/meta, canonical, Open Graph, Article schema, Breadcrumb schema, FAQ schema, real internal links, external sources, featured image alt and blog/sitemap presence."
+      },
+      "build": {
+        "priorArticleCommit": "5ee97ae",
+        "notes": "Article existed on remote main at start of 2026-08-13 run and was reconciled before selecting the next workbook keyword."
+      },
+      "commit": "5ee97ae",
+      "verifiedAt": "2026-08-13T00:00:00+02:00",
+      "verification": {
+        "checksAttempted": 1,
+        "articleHttpStatus": 200,
+        "h1": "Best Equipment Financing for Bad Credit in 2026",
+        "canonical": "https://equipmentsfinance.com/blog/best-equipment-financing-for-bad-credit/",
+        "featuredImage": "https://equipmentsfinance.com/assets/best-equipment-financing-for-bad-credit.jpg",
+        "blogIndex": "present",
+        "sitemap": "present"
+      },
+      "notes": "Reconciled as already published on custom domain; not selected for a duplicate article."
+    },
+    {
+      "keyword": "equipment financing company reviews",
+      "priority": "Alta",
+      "status": "draft_reviewed",
+      "slug": "equipment-financing-company-reviews",
+      "title": "Equipment Financing Company Reviews: How to Compare Lenders in 2026",
+      "url": "https://equipmentsfinance.com/blog/equipment-financing-company-reviews/",
+      "publicationDate": "2026-08-13",
+      "serpObservations": {
+        "intent": "Commercial BOFU review/comparison intent for U.S. and Texas business owners checking equipment finance companies before applying or signing.",
+        "pageTypes": "Top relevant results are national lender rankings, individual lender reviews, local BBB/review profiles and provider landing pages with methodology, lender tables, author/editor signals, testimonials, complaint or reputation data and FAQs.",
+        "coverage": "SERP covers equipment financing company shortlists, review methodology, credit and revenue requirements, rates/terms, funding speed, customer service, BBB/local profiles, complaints and equipment-loan basics.",
+        "gaps": "The article adds a buyer-side review interpretation checklist, warns against relying on star ratings alone, separates broker/dealer/lender review context and maps public reviews to written-offer terms."
+      },
+      "sources": [
+        "https://www.nerdwallet.com/business/loans/learn/equipment-financing",
+        "https://www.finder.com/business-loans/best-equipment-financing-companies",
+        "https://www.bbb.org/us/tx/dallas/category/equipment-financing",
+        "https://www.sba.gov/funding-programs/loans/7a-loans"
+      ],
+      "review": {
+        "editorial": "Passed second-pass review 2026-08-13: BOFU review/comparison intent, original review-signal angle, direct answer, comparison table, FAQs, no fabricated reviews/testimonials/prices and non-promotional company mention.",
+        "seo": "Passed second-pass review 2026-08-13: unique H1, title/meta, canonical, Open Graph, Article schema, Breadcrumb schema, FAQ schema, four body internal links, four external body links, featured image alt, accessibility basics, sitemap/blog index updates and no template text."
+      },
+      "build": {
+        "npmCi": "success",
+        "localNpmRunBuild": "success",
+        "localPreview": "passed_static_dist_html_checks",
+        "notes": "Source and dist HTML passed structural checks: 2157 article-body words, unique H1, canonical, OG image, 4 body internal links, 4 body external links, FAQ schema, blog index and sitemap presence."
+      },
+      "notes": "Selected as the next high-priority workbook keyword after reconciling bad-credit article already present on remote main."
     }
   ],
   "extraCampaigns": [
