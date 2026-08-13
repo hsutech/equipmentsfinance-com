@@ -1,6 +1,6 @@
 {
   "domain": "equipmentsfinance.com",
-  "lastUpdated": "2026-08-13T00:00:00+02:00",
+  "lastUpdated": "2026-08-13T09:13:29+02:00",
   "items": [
     {
       "keyword": "best equipment financing companies in the USA",
@@ -410,7 +410,7 @@
     {
       "keyword": "equipment financing company reviews",
       "priority": "Alta",
-      "status": "draft_reviewed",
+      "status": "published",
       "slug": "equipment-financing-company-reviews",
       "title": "Equipment Financing Company Reviews: How to Compare Lenders in 2026",
       "url": "https://equipmentsfinance.com/blog/equipment-financing-company-reviews/",
@@ -437,7 +437,22 @@
         "localPreview": "passed_static_dist_html_checks",
         "notes": "Source and dist HTML passed structural checks: 2157 article-body words, unique H1, canonical, OG image, 4 body internal links, 4 body external links, FAQ schema, blog index and sitemap presence."
       },
-      "notes": "Selected as the next high-priority workbook keyword after reconciling bad-credit article already present on remote main."
+      "notes": "Selected as the next high-priority workbook keyword after reconciling the bad-credit article already live on remote main; custom-domain verification passed on the second live attempt after Cloudflare deployment completed.",
+      "commit": "5a9354c",
+      "verifiedAt": "2026-08-13T09:13:29+02:00",
+      "verification": {
+        "checksAttempted": 2,
+        "articleHttpStatus": 200,
+        "imageHttpStatus": 200,
+        "h1": "Equipment Financing Company Reviews: How to Compare Lenders in 2026",
+        "canonical": "https://equipmentsfinance.com/blog/equipment-financing-company-reviews/",
+        "featuredImage": "https://equipmentsfinance.com/assets/equipment-financing-company-reviews.jpg",
+        "blogIndex": "present",
+        "sitemap": "present",
+        "desktopRender": "passed_chrome_headless_screenshot",
+        "mobileRender": "passed_chrome_headless_screenshot",
+        "githubActionsRun": "https://github.com/hsutech/equipmentsfinance-com/actions/runs/31676695032"
+      }
     }
   ],
   "extraCampaigns": [
