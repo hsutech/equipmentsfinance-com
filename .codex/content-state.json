@@ -1,6 +1,6 @@
 {
   "domain": "equipmentsfinance.com",
-  "lastUpdated": "2026-08-18T09:00:00+02:00",
+  "lastUpdated": "2026-08-18T09:25:15+02:00",
   "items": [
     {
       "keyword": "best equipment financing companies in the USA",
@@ -457,7 +457,7 @@
     {
       "keyword": "equipment loan vs equipment lease",
       "priority": "Media",
-      "status": "draft_reviewed",
+      "status": "published",
       "slug": "equipment-loan-vs-equipment-lease",
       "title": "Equipment Loan vs Equipment Lease: Which Is Better for Your Business in 2026?",
       "url": "https://equipmentsfinance.com/blog/equipment-loan-vs-equipment-lease/",
@@ -478,10 +478,32 @@
         "https://www.cat.com/en_US/blog/comparing-equipment-lease-vs-loan.html"
       ],
       "review": {
-        "editorial": "Passed first draft review 2026-08-18: BOFU comparison intent, direct answer, original practical decision angle, comparison table, FAQs, no fabricated prices/reviews/experience and non-promotional company mention.",
-        "seo": "Passed first draft review 2026-08-18: unique H1, title/meta, canonical, Open Graph, Article schema, Breadcrumb schema, FAQ schema, real internal links, external authoritative sources, featured image alt and blog/sitemap updates."
+        "editorial": "Passed second-pass review 2026-08-18: BOFU comparison intent, 2019 words, direct answer, original useful-life/cash-flow/end-of-term angle, comparison table, FAQs, no fabricated reviews/prices/experience and non-promotional company mention.",
+        "seo": "Passed second-pass review 2026-08-18: unique H1, title/meta, canonical, Open Graph, Article schema, Breadcrumb schema, FAQ schema, body internal links, 4 external body links, featured image alt, accessibility basics, sitemap/blog index updates and no template placeholder text."
       },
-      "notes": "Selected as next workbook keyword after all high-priority topics and equipment financing company reviews were already published."
+      "notes": "Selected as next workbook keyword after all high-priority topics and equipment financing company reviews were already published; custom-domain verification passed on first live attempt after Cloudflare deployment completed.",
+      "commit": "91b47d5",
+      "verifiedAt": "2026-08-18T09:25:15+02:00",
+      "build": {
+        "npmCi": "success",
+        "localNpmRunBuild": "success",
+        "localPreview": "passed_chrome_headless_desktop_mobile",
+        "githubActionsBuild": "success",
+        "githubActionsRun": "https://github.com/hsutech/equipmentsfinance-com/actions/runs/32111202204",
+        "notes": "Source and dist HTML passed structural checks: 2019 article-body words, unique H1, canonical, OG image, 4 body external links, real internal links, FAQ schema, blog index and sitemap presence. No lint/test scripts exist in package.json."
+      },
+      "verification": {
+        "checksAttempted": 1,
+        "articleHttpStatus": 200,
+        "imageHttpStatus": 200,
+        "h1": "Equipment Loan vs Equipment Lease: Which Is Better for Your Business in 2026?",
+        "canonical": "https://equipmentsfinance.com/blog/equipment-loan-vs-equipment-lease/",
+        "featuredImage": "https://equipmentsfinance.com/assets/equipment-loan-vs-equipment-lease.jpg",
+        "blogIndex": "present",
+        "sitemap": "present",
+        "desktopRender": "passed_chrome_headless_screenshot",
+        "mobileRender": "passed_chrome_headless_screenshot"
+      }
     }
   ],
   "extraCampaigns": [
