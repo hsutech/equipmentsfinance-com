@@ -1,6 +1,6 @@
 {
   "domain": "equipmentsfinance.com",
-  "lastUpdated": "2026-08-13T09:13:29+02:00",
+  "lastUpdated": "2026-08-18T09:00:00+02:00",
   "items": [
     {
       "keyword": "best equipment financing companies in the USA",
@@ -453,6 +453,35 @@
         "mobileRender": "passed_chrome_headless_screenshot",
         "githubActionsRun": "https://github.com/hsutech/equipmentsfinance-com/actions/runs/31676695032"
       }
+    },
+    {
+      "keyword": "equipment loan vs equipment lease",
+      "priority": "Media",
+      "status": "draft_reviewed",
+      "slug": "equipment-loan-vs-equipment-lease",
+      "title": "Equipment Loan vs Equipment Lease: Which Is Better for Your Business in 2026?",
+      "url": "https://equipmentsfinance.com/blog/equipment-loan-vs-equipment-lease/",
+      "publicationDate": "2026-08-18",
+      "serpObservations": {
+        "intent": "Commercial BOFU comparison for U.S. and Texas business owners deciding whether to acquire equipment through an equipment loan, equipment finance agreement or lease.",
+        "pageTypes": "Top relevant results are comparison guides, lender explainers, bank articles and equipment-specific pages with direct answers, tables, ownership/payment/tax/end-of-term sections, author/editor signals and FAQs.",
+        "coverage": "SERP covers ownership, monthly payment, upfront cash, collateral, useful life, obsolescence, tax treatment, operating/capital or FMV lease differences, end-of-term options, maintenance responsibilities and total cost.",
+        "gaps": "The article adds a practical decision framework around useful life, end-of-term risk, modification/resale control, cash-flow timing and written contract questions instead of treating loan versus lease as a simple monthly-payment choice."
+      },
+      "sources": [
+        "https://www.lendingtree.com/business/equipment/",
+        "https://www.nerdwallet.com/business/loans/learn/equipment-leasing",
+        "https://www.sba.gov/business-guide/manage-your-business/buy-assets-equipment",
+        "https://www.irs.gov/publications/p946",
+        "https://www.smarterfinanceusa.com/equipment-loan-vs-lease",
+        "https://outsetfunding.com/answers/equipment-financing/equipment-loan-vs-lease",
+        "https://www.cat.com/en_US/blog/comparing-equipment-lease-vs-loan.html"
+      ],
+      "review": {
+        "editorial": "Passed first draft review 2026-08-18: BOFU comparison intent, direct answer, original practical decision angle, comparison table, FAQs, no fabricated prices/reviews/experience and non-promotional company mention.",
+        "seo": "Passed first draft review 2026-08-18: unique H1, title/meta, canonical, Open Graph, Article schema, Breadcrumb schema, FAQ schema, real internal links, external authoritative sources, featured image alt and blog/sitemap updates."
+      },
+      "notes": "Selected as next workbook keyword after all high-priority topics and equipment financing company reviews were already published."
     }
   ],
   "extraCampaigns": [
