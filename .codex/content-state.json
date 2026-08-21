@@ -1,6 +1,6 @@
 {
   "domain": "equipmentsfinance.com",
-  "lastUpdated": "2026-08-18T09:25:15+02:00",
+  "lastUpdated": "2026-08-21T12:52:00+02:00",
   "items": [
     {
       "keyword": "best equipment financing companies in the USA",
@@ -504,6 +504,53 @@
         "desktopRender": "passed_chrome_headless_screenshot",
         "mobileRender": "passed_chrome_headless_screenshot"
       }
+    },
+    {
+      "keyword": "equipment financing vs business loan",
+      "priority": "Media",
+      "status": "published",
+      "slug": "equipment-financing-vs-business-loan",
+      "title": "Equipment Financing vs Business Loan: Which Fits Your Purchase in 2026?",
+      "url": "https://equipmentsfinance.com/blog/equipment-financing-vs-business-loan/",
+      "publicationDate": "2026-08-21",
+      "serpObservations": {
+        "intent": "Commercial BOFU comparison for U.S. and Texas business owners deciding between asset-backed equipment financing and broader business loans for equipment purchases or mixed projects.",
+        "pageTypes": "Top relevant results are comparison articles and lender explainers with direct answers, tables, pros/cons, qualification notes, author/editor signals and FAQs.",
+        "coverage": "SERP covers use of funds, collateral, approval difficulty, down payments, loan terms, ownership, tax considerations, equipment loans, leases, SBA-backed options and general term loans.",
+        "gaps": "The article adds mixed-project planning: separating asset cost, setup cost and operating cushion before deciding whether to use equipment financing, a business loan or both, while avoiding the existing machinery-specific comparison."
+      },
+      "sources": [
+        "https://fitsmallbusiness.com/equipment-financing-vs-business-loan-for-purchases/",
+        "https://www.lendingtree.com/business/equipment/",
+        "https://www.sba.gov/loans/7a-loans/",
+        "https://www.irs.gov/publications/p946"
+      ],
+      "review": {
+        "editorial": "Passed 2026-08-21: BOFU comparison intent, 2209 words, direct answer, table of contents, comparison table, FAQs, non-promotional company mention and distinct angle from the existing machinery-specific loan comparison.",
+        "seo": "Passed 2026-08-21: unique H1, title/meta, canonical, Open Graph, Article schema, Breadcrumb schema, FAQ schema, four external sources, real internal links, featured image alt and blog/sitemap updates."
+      },
+      "build": {
+        "npmCi": "success",
+        "npmRunBuild": "success",
+        "localPreview": "passed: local HTTP 200 for article/image and Chrome headless desktop/mobile screenshots",
+        "githubActionsBuild": "success",
+        "githubActionsRun": "https://github.com/hsutech/equipmentsfinance-com/actions/runs/32474443085"
+      },
+      "commit": "5b1118b",
+      "verifiedAt": "2026-08-21T12:52:00+02:00",
+      "verification": {
+        "checksAttempted": 1,
+        "articleHttpStatus": 200,
+        "imageHttpStatus": 200,
+        "h1": "Equipment Financing vs Business Loan: Which Fits Your Purchase in 2026?",
+        "canonical": "https://equipmentsfinance.com/blog/equipment-financing-vs-business-loan/",
+        "featuredImage": "https://equipmentsfinance.com/assets/equipment-financing-vs-business-loan.jpg",
+        "blogIndex": "present",
+        "sitemap": "present",
+        "desktopRender": "passed",
+        "mobileRender": "passed"
+      },
+      "notes": "Selected as the next medium-priority pending workbook keyword after equipment loan vs equipment lease; custom-domain verification passed after Cloudflare deployment completed."
     }
   ],
   "extraCampaigns": [
