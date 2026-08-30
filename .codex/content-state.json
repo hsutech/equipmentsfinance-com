@@ -1,6 +1,6 @@
 {
   "domain": "equipmentsfinance.com",
-  "lastUpdated": "2026-08-21T12:52:00+02:00",
+  "lastUpdated": "2026-08-30T09:20:00+02:00",
   "items": [
     {
       "keyword": "best equipment financing companies in the USA",
@@ -551,6 +551,59 @@
         "mobileRender": "passed"
       },
       "notes": "Selected as the next medium-priority pending workbook keyword after equipment loan vs equipment lease; custom-domain verification passed after Cloudflare deployment completed."
+    },
+    {
+      "keyword": "best startup equipment financing",
+      "priority": "Media",
+      "status": "published",
+      "slug": "best-startup-equipment-financing",
+      "title": "Best Startup Equipment Financing Options for 2026",
+      "url": "https://equipmentsfinance.com/blog/best-startup-equipment-financing/",
+      "publicationDate": "2026-08-30",
+      "commit": "099269f",
+      "verifiedAt": "2026-08-30T09:20:00+02:00",
+      "verification": {
+        "checksAttempted": 2,
+        "articleHttpStatus": 200,
+        "imageHttpStatus": 200,
+        "h1": "Best Startup Equipment Financing Options for 2026",
+        "canonical": "https://equipmentsfinance.com/blog/best-startup-equipment-financing/",
+        "featuredImage": "https://equipmentsfinance.com/assets/best-startup-equipment-financing.jpg",
+        "blogIndex": "present",
+        "sitemap": "present",
+        "desktopRender": "passed",
+        "mobileRender": "passed"
+      },
+      "serpObservations": {
+        "intent": "Commercial BOFU comparison for U.S. and Texas startup owners comparing equipment financing routes with limited operating history.",
+        "pageTypes": "Top relevant results are listicles and comparison guides with lender tables, best-for labels, qualification snapshots, author/editor signals, tables of contents, FAQs and application guidance.",
+        "coverage": "SERP covers startup-friendly equipment lenders, marketplaces, SBA-backed paths, leasing, dealer financing, credit and revenue minimums, time-in-business limits, loan amounts, funding speed, documentation and alternatives.",
+        "gaps": "The article adds route-based decision guidance for startups by asset, seller, cash runway, useful life, setup costs, guarantees and contract risk while avoiding a fabricated proprietary lender ranking."
+      },
+      "sources": [
+        "https://fitsmallbusiness.com/equipment-loans-for-startup-business/",
+        "https://www.bankrate.com/loans/small-business/best-equipment-business-loans/",
+        "https://www.forbes.com/advisor/business-loans/best-equipment-financing/",
+        "https://www.lendingtree.com/business/equipment/",
+        "https://www.sba.gov/loans/",
+        "https://www.sba.gov/loans/7a-loans/",
+        "https://www.irs.gov/publications/p946",
+        "https://www.ftc.gov/business-guidance/blog/2021/06/back-business-3-looking-small-business-financing"
+      ],
+      "review": {
+        "editorial": "Passed 2026-08-30: BOFU listicle intent, 2400 article-body words, direct answer, TOC, comparison table, FAQs, factual company mention and no invented approval/pricing/review claims.",
+        "seo": "Passed 2026-08-30: unique H1, title/meta, canonical, Open Graph, Article/Breadcrumb/FAQ schema, four body internal links, four body external links, featured image alt, blog index and sitemap updates."
+      },
+      "build": {
+        "npmCi": "success",
+        "npmRunBuild": "success",
+        "lint": "not_configured",
+        "test": "not_configured",
+        "githubActionsBuild": "success",
+        "githubActionsRun": "https://github.com/hsutech/equipmentsfinance-com/actions/runs/33298847379",
+        "localPreview": "passed_static_html_checks_and_chrome_headless_desktop_mobile_render"
+      },
+      "notes": "Selected as next medium-priority pending workbook keyword after equipment financing vs business loan; custom-domain verification passed on second live attempt after GitHub Actions/Cloudflare deployment completed."
     }
   ],
   "extraCampaigns": [
