@@ -1,6 +1,6 @@
 {
   "domain": "equipmentsfinance.com",
-  "lastUpdated": "2026-09-01T09:00:00+02:00",
+  "lastUpdated": "2026-09-01T09:59:37+02:00",
   "items": [
     {
       "keyword": "best equipment financing companies in the USA",
@@ -659,7 +659,7 @@
     {
       "keyword": "best commercial vehicle financing",
       "priority": "Media",
-      "status": "draft_reviewed",
+      "status": "published",
       "slug": "best-commercial-vehicle-financing",
       "title": "Best Commercial Vehicle Financing Options for 2026",
       "url": "https://equipmentsfinance.com/blog/best-commercial-vehicle-financing/",
@@ -687,7 +687,33 @@
         "featuredImageAlt": "Commercial vehicle financing quote with calculator, keys, cargo van, box truck and service truck",
         "youtube": "omitted_no_reliably_relevant_neutral_video_found"
       },
-      "notes": "Selected as the next medium-priority pending workbook keyword after best used equipment financing; article built locally and awaiting push/live verification."
+      "notes": "Selected as the next medium-priority pending workbook keyword after best used equipment financing; custom-domain verification passed after a mobile metadata layout fix. No YouTube embed included because search did not surface a reliably relevant neutral video.",
+      "commit": "3139691",
+      "verifiedAt": "2026-09-01T09:59:37+02:00",
+      "verification": {
+        "checksAttempted": 2,
+        "articleHttpStatus": 200,
+        "imageHttpStatus": 200,
+        "h1": "Best Commercial Vehicle Financing Options for 2026",
+        "canonical": "https://equipmentsfinance.com/blog/best-commercial-vehicle-financing/",
+        "featuredImage": "https://equipmentsfinance.com/assets/best-commercial-vehicle-financing.jpg",
+        "blogIndex": "present",
+        "sitemap": "present",
+        "desktopRender": "passed_chrome_headless_screenshot",
+        "mobileRender": "passed_chrome_headless_screenshot_after_css_fix"
+      },
+      "build": {
+        "npmCi": "success",
+        "npmRunBuild": "success",
+        "lint": "not_configured",
+        "tests": "not_configured",
+        "githubActionsBuild": "success",
+        "githubActionsRuns": [
+          "https://github.com/hsutech/equipmentsfinance-com/actions/runs/33484370493",
+          "https://github.com/hsutech/equipmentsfinance-com/actions/runs/33484626495"
+        ],
+        "localPreview": "http_server_bind_blocked_by_sandbox; static HTML and live Chrome headless desktop/mobile checks passed"
+      }
     }
   ],
   "extraCampaigns": [
