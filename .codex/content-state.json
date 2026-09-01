@@ -1,6 +1,6 @@
 {
   "domain": "equipmentsfinance.com",
-  "lastUpdated": "2026-08-31T09:31:00+02:00",
+  "lastUpdated": "2026-09-01T09:00:00+02:00",
   "items": [
     {
       "keyword": "best equipment financing companies in the USA",
@@ -655,6 +655,39 @@
         "localPreview": "passed_static_http_checks_and_chrome_headless_desktop_mobile_render"
       },
       "notes": "Selected as the next medium-priority pending workbook keyword after best startup equipment financing; custom-domain verification passed on first live attempt after GitHub Actions/Cloudflare deployment completed. A relevant YouTube embed was found on a competitor lender page but omitted because it was promotional and not materially useful."
+    },
+    {
+      "keyword": "best commercial vehicle financing",
+      "priority": "Media",
+      "status": "draft_reviewed",
+      "slug": "best-commercial-vehicle-financing",
+      "title": "Best Commercial Vehicle Financing Options for 2026",
+      "url": "https://equipmentsfinance.com/blog/best-commercial-vehicle-financing/",
+      "publicationDate": "2026-09-01",
+      "serpObservations": {
+        "intent": "Commercial BOFU comparison for U.S. and Texas business owners comparing financing options for vans, box trucks, service trucks, trailers, vocational vehicles and small fleet additions.",
+        "pageTypes": "Current relevant results are business auto loan guides, commercial truck loan listicles, lender/product pages and financing explainers with comparison tables, best-for labels, author/editor signals, qualification notes, tables of contents and FAQs.",
+        "coverage": "SERP covers banks, credit unions, online lenders, truck specialists, business auto loans, SBA-backed alternatives, leasing, used vehicles, startup eligibility, down payments, vehicle age/mileage limits and documents.",
+        "gaps": "Many pages separate light business auto loans from semitruck financing. The article bridges that gap with vehicle-class guidance for vans, light trucks, box trucks, service bodies, trailers, upfits and small fleet purchases while avoiding overlap with the existing truck-equipment article."
+      },
+      "sources": [
+        "https://www.nerdwallet.com/business/loans/learn/business-auto-loans",
+        "https://www.lendingtree.com/business/commercial-truck-financing/",
+        "https://www.sba.gov/loans/7a-loans/",
+        "https://www.irs.gov/publications/p946",
+        "https://www.bankrate.com/loans/auto-loans/business-auto-loans/",
+        "https://www.bankofamerica.com/smallbusiness/business-financing/auto-loans/"
+      ],
+      "review": {
+        "editorial": "Passed draft review 2026-09-01: BOFU listicle intent, original commercial-vehicle angle distinct from semitruck-only content, direct answer, comparison table, FAQs, neutral financial language and non-promotional company mention.",
+        "seo": "Passed draft review 2026-09-01: unique H1, title/meta, canonical, Open Graph, Article schema, Breadcrumb schema, FAQ schema, four body internal links, four body external links, featured image alt and sitemap/blog index updates."
+      },
+      "multimedia": {
+        "featuredImage": "https://equipmentsfinance.com/assets/best-commercial-vehicle-financing.jpg",
+        "featuredImageAlt": "Commercial vehicle financing quote with calculator, keys, cargo van, box truck and service truck",
+        "youtube": "omitted_no_reliably_relevant_neutral_video_found"
+      },
+      "notes": "Selected as the next medium-priority pending workbook keyword after best used equipment financing; article built locally and awaiting push/live verification."
     }
   ],
   "extraCampaigns": [
