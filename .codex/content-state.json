@@ -1,6 +1,6 @@
 {
   "domain": "equipmentsfinance.com",
-  "lastUpdated": "2026-09-01T09:59:37+02:00",
+  "lastUpdated": "2026-09-05T09:05:00+02:00",
   "items": [
     {
       "keyword": "best equipment financing companies in the USA",
@@ -714,6 +714,40 @@
         ],
         "localPreview": "http_server_bind_blocked_by_sandbox; static HTML and live Chrome headless desktop/mobile checks passed"
       }
+    },
+    {
+      "keyword": "best office equipment financing",
+      "priority": "Media",
+      "status": "draft_reviewed",
+      "slug": "best-office-equipment-financing",
+      "title": "Best Office Equipment Financing Options for 2026",
+      "url": "https://equipmentsfinance.com/blog/best-office-equipment-financing/",
+      "publicationDate": "2026-09-05",
+      "serpObservations": {
+        "intent": "Commercial BOFU comparison for U.S. and Texas business owners choosing financing for office furniture, copiers, computers, phone systems, networking hardware, software-adjacent packages and office technology refreshes.",
+        "pageTypes": "Current relevant results mix broad equipment-financing listicles with lender/product pages for office products, office imaging, IT, furniture and business equipment leasing. Strong pages use lender tables, qualification notes, finance-vs-lease explanations, author/editor signals, TOCs and FAQs.",
+        "coverage": "SERP covers equipment loans and leases, bank application-only programs, copier/printer/phone/computer eligibility, soft costs such as installation/freight, SBA 7(a) use-of-proceeds context and tax/depreciation considerations.",
+        "gaps": "The article adds a category-based office-equipment comparison that separates financeable assets from soft costs and subscriptions, avoids duplicating the office fit-out budgeting article and gives a clearer decision framework for office-specific packages."
+      },
+      "sources": [
+        "https://www.lendingtree.com/business/equipment/",
+        "https://www.usbank.com/business-banking/banking-products/business-lending/business-loans/equipment-financing.html",
+        "https://www.firstcitizens.com/small-business/credit-financing/equipment-financing-leasing/office-imaging",
+        "https://equipmentfinance.amerisbank.com/office-products-financing/",
+        "https://www.sba.gov/loans/7a-loans/",
+        "https://www.irs.gov/publications/p946"
+      ],
+      "review": {
+        "editorial": "Passed draft review 2026-09-05: BOFU comparison intent, original office-equipment package angle distinct from office fit-out guide, direct answer, comparison table, FAQs, disclaimer and non-promotional company mention.",
+        "seo": "Passed draft review 2026-09-05: unique H1, title/meta, canonical, Open Graph, Article schema, Breadcrumb schema, FAQ schema, four body internal links, five external links, featured image alt and sitemap/blog index updates."
+      },
+      "build": {
+        "localNpmCi": "success",
+        "localNpmRunBuild": "success",
+        "localPreview": "passed in Codex in-app browser at 1366x900 and 390x844; no horizontal overflow; image loaded; TOC/table/FAQ visible",
+        "notes": "No lint/test scripts exist in package.json."
+      },
+      "notes": "Selected as the next medium-priority pending workbook keyword after best commercial vehicle financing; not marked published until custom-domain verification passes."
     }
   ],
   "extraCampaigns": [
