@@ -1,6 +1,6 @@
 {
   "domain": "equipmentsfinance.com",
-  "lastUpdated": "2026-09-18T09:00:00+02:00",
+  "lastUpdated": "2026-09-18T09:15:00+02:00",
   "items": [
     {
       "keyword": "best equipment financing companies in the USA",
@@ -770,7 +770,7 @@
     {
       "keyword": "best manufacturing equipment financing",
       "priority": "Media",
-      "status": "draft_reviewed",
+      "status": "published",
       "slug": "best-manufacturing-equipment-financing",
       "title": "Best Manufacturing Equipment Financing Options for 2026",
       "url": "https://equipmentsfinance.com/blog/best-manufacturing-equipment-financing/",
@@ -800,7 +800,10 @@
         "localNpmRunBuild": "success",
         "lint": "not_configured",
         "tests": "not_configured",
-        "localPreview": "passed HTTP checks for article/image/blog/sitemap; in-app browser desktop 1600x900 and mobile viewport check passed with image loaded, H1 present, no console errors and only intentional table-scroll overflow"
+        "githubActionsBuild": "success",
+        "githubActionsRun": "https://github.com/hsutech/equipmentsfinance-com/actions/runs/35318314619",
+        "localPreview": "passed HTTP checks for article/image/blog/sitemap; in-app browser desktop 1600x900 and mobile viewport check passed with image loaded, H1 present, no console errors and only intentional table-scroll overflow",
+        "livePreview": "passed custom-domain desktop 1280x720 and mobile 390x844 render checks with image loaded, H1 present, no console errors and only intentional table-scroll overflow"
       },
       "multimedia": {
         "featuredImage": "https://equipmentsfinance.com/assets/best-manufacturing-equipment-financing.jpg",
@@ -808,7 +811,21 @@
         "imageGenerationPrompt": "Original editorial web hero image showing manufacturing equipment purchase planning with machined metal parts, calculator, safety glasses and blurred factory floor equipment; no text, logos or fake labels.",
         "youtube": "omitted_no_reliably_relevant_neutral_video_found"
       },
-      "notes": "Prepared from current remote main 0f9c3dcd6983dc90b3a747fadc3111fc5e74bc4e. Do not mark published until custom-domain verification passes."
+      "commit": "c53d82985ec3522bc7cece5808568e6c563dd83d",
+      "verifiedAt": "2026-09-18T09:15:00+02:00",
+      "verification": {
+        "checksAttempted": 2,
+        "articleHttpStatus": 200,
+        "imageHttpStatus": 200,
+        "h1": "Best Manufacturing Equipment Financing Options for 2026",
+        "canonical": "https://equipmentsfinance.com/blog/best-manufacturing-equipment-financing/",
+        "featuredImage": "https://equipmentsfinance.com/assets/best-manufacturing-equipment-financing.jpg",
+        "blogIndex": "present",
+        "sitemap": "present",
+        "desktopRender": "passed_live_browser",
+        "mobileRender": "passed_live_browser"
+      },
+      "notes": "Selected as the next medium-priority pending workbook keyword after best office equipment financing; custom-domain verification passed after GitHub Actions/Cloudflare deployment completed."
     }
   ],
   "extraCampaigns": [
