@@ -1,6 +1,6 @@
 {
   "domain": "equipmentsfinance.com",
-  "lastUpdated": "2026-09-05T09:09:06+02:00",
+  "lastUpdated": "2026-09-18T09:00:00+02:00",
   "items": [
     {
       "keyword": "best equipment financing companies in the USA",
@@ -766,6 +766,49 @@
         "mobileRender": "passed_live_browser"
       },
       "notes": "Selected as the next medium-priority pending workbook keyword after best commercial vehicle financing; custom-domain verification passed after GitHub Actions/Cloudflare deployment completed."
+    },
+    {
+      "keyword": "best manufacturing equipment financing",
+      "priority": "Media",
+      "status": "draft_reviewed",
+      "slug": "best-manufacturing-equipment-financing",
+      "title": "Best Manufacturing Equipment Financing Options for 2026",
+      "url": "https://equipmentsfinance.com/blog/best-manufacturing-equipment-financing/",
+      "publicationDate": "2026-09-18",
+      "serpObservations": {
+        "intent": "Commercial BOFU comparison for U.S. and Texas manufacturers choosing financing for CNC machines, robotics, fabrication equipment, packaging lines, processing systems and production support equipment.",
+        "pageTypes": "Current relevant results mix manufacturing-specific lender pages, vertical financing guides, broad equipment-financing listicles and official SBA guidance. Strong pages use direct answers, comparison tables, qualification notes, author or editorial signals, FAQs and sections on terms, down payments, progress payments and documentation.",
+        "coverage": "SERP covers equipment loans, leases, manufacturing-focused lender programs, bank products, SBA 7(a), SBA 504, new and used machinery, progress payments, staged funding, deposits, useful life, depreciation context and documentation.",
+        "gaps": "The article adds a practical category comparison focused on machine type, vendor payment schedule, installation timing, soft costs, progress-payment fit and production cash flow while avoiding overlap with heavy equipment, construction equipment, used equipment and general loan-versus-lease articles."
+      },
+      "sources": [
+        "https://equipmentfinancehub.com/manufacturing-equipment-financing",
+        "https://axiantpartners.com/equipment-financing/articles/manufacturing-equipment-financing-cnc-press-brakes/",
+        "https://www.firstcitizens.com/small-business/credit-financing/equipment-financing-leasing/manufacturing",
+        "https://www.usbank.com/business-banking/banking-products/business-lending/business-loans/manufacturing-vendor-services.html",
+        "https://www.sba.gov/loans/",
+        "https://www.sba.gov/loans/504-loans/",
+        "https://www.irs.gov/publications/p946",
+        "https://www.nist.gov/mep"
+      ],
+      "review": {
+        "editorial": "Passed draft review 2026-09-18: BOFU listicle/comparison intent, current SERP refreshed, direct answer, TOC, comparison table, FAQs, non-promotional company mention, no invented rates, reviews, rankings, approvals or first-hand testing claims.",
+        "seo": "Passed draft review 2026-09-18: unique H1, title/meta, canonical, Open Graph, Article schema, Breadcrumb schema, FAQ schema, four body internal links, six external source links, featured image alt, blog index and sitemap updates."
+      },
+      "build": {
+        "localNpmCi": "success",
+        "localNpmRunBuild": "success",
+        "lint": "not_configured",
+        "tests": "not_configured",
+        "localPreview": "passed HTTP checks for article/image/blog/sitemap; in-app browser desktop 1600x900 and mobile viewport check passed with image loaded, H1 present, no console errors and only intentional table-scroll overflow"
+      },
+      "multimedia": {
+        "featuredImage": "https://equipmentsfinance.com/assets/best-manufacturing-equipment-financing.jpg",
+        "featuredImageAlt": "Manufacturing equipment financing plan with machined metal parts, calculator, safety glasses and factory floor equipment",
+        "imageGenerationPrompt": "Original editorial web hero image showing manufacturing equipment purchase planning with machined metal parts, calculator, safety glasses and blurred factory floor equipment; no text, logos or fake labels.",
+        "youtube": "omitted_no_reliably_relevant_neutral_video_found"
+      },
+      "notes": "Prepared from current remote main 0f9c3dcd6983dc90b3a747fadc3111fc5e74bc4e. Do not mark published until custom-domain verification passes."
     }
   ],
   "extraCampaigns": [
