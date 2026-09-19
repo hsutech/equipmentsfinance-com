@@ -1,6 +1,6 @@
 {
   "domain": "equipmentsfinance.com",
-  "lastUpdated": "2026-09-18T09:15:00+02:00",
+  "lastUpdated": "2026-09-19T09:00:00+02:00",
   "items": [
     {
       "keyword": "best equipment financing companies in the USA",
@@ -826,6 +826,39 @@
         "mobileRender": "passed_live_browser"
       },
       "notes": "Selected as the next medium-priority pending workbook keyword after best office equipment financing; custom-domain verification passed after GitHub Actions/Cloudflare deployment completed."
+    },
+    {
+      "keyword": "best dental equipment financing",
+      "priority": "Media",
+      "status": "draft_reviewed",
+      "slug": "best-dental-equipment-financing",
+      "title": "Best Dental Equipment Financing Options for 2026",
+      "url": "https://equipmentsfinance.com/blog/best-dental-equipment-financing/",
+      "publicationDate": "2026-09-19",
+      "serpObservations": {
+        "intent": "Commercial BOFU comparison for U.S. and Texas dental practice owners comparing financing paths for dental chairs, imaging, CAD/CAM, sterilization, operatory packages and practice technology.",
+        "pageTypes": "Current results mix dental practice lender pages, vendor financing pages, broader equipment-loan comparisons and how-to guides with tables, loan-versus-lease sections, author/editor signals and FAQs.",
+        "coverage": "SERP covers dental practice loans, equipment financing, vendor/dealer financing, SBA-backed paths, leasing, startup or expansion projects, Section 179/depreciation caveats, documentation and repayment considerations.",
+        "gaps": "The article adds a dental-specific asset-fit framework around chairs, imaging, CAD/CAM, sterilization, installation, software, useful-life mismatch, vendor timing and separating equipment costs from broader practice build-out costs."
+      },
+      "sources": [
+        "https://business.bofa.com/en-us/content/dental-practice-loans.html",
+        "https://www.henryschein.com/us-en/financialservices/default.aspx",
+        "https://www.sba.gov/funding-programs/loans/7a-loans",
+        "https://www.sba.gov/funding-programs/loans/504-loans",
+        "https://www.irs.gov/publications/p946"
+      ],
+      "review": {
+        "editorial": "Passed draft review 2026-09-19: BOFU listicle intent, original dental-practice asset-fit angle, direct answer, comparison table, FAQs, no fabricated reviews/prices/experience and non-promotional company mention.",
+        "seo": "Passed draft review 2026-09-19: unique H1, title/meta, canonical, Open Graph, Article schema, Breadcrumb schema, FAQ schema, real internal links, authoritative external links, featured image alt and sitemap/blog index updates."
+      },
+      "image": {
+        "path": "src/assets/best-dental-equipment-financing.jpg",
+        "alt": "Modern dental operatory with chair, imaging screen and financing paperwork on a desk",
+        "dimensions": "1672x941",
+        "source": "Generated original editorial image with built-in imagegen on 2026-09-19."
+      },
+      "notes": "Selected as the next medium-priority pending workbook keyword after best manufacturing equipment financing was live verified. No neutral materially useful YouTube video was included."
     }
   ],
   "extraCampaigns": [
