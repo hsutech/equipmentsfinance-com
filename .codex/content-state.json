@@ -1,6 +1,6 @@
 {
   "domain": "equipmentsfinance.com",
-  "lastUpdated": "2026-09-19T09:00:00+02:00",
+  "lastUpdated": "2026-09-19T20:35:00+02:00",
   "items": [
     {
       "keyword": "best equipment financing companies in the USA",
@@ -830,7 +830,7 @@
     {
       "keyword": "best dental equipment financing",
       "priority": "Media",
-      "status": "draft_reviewed",
+      "status": "published",
       "slug": "best-dental-equipment-financing",
       "title": "Best Dental Equipment Financing Options for 2026",
       "url": "https://equipmentsfinance.com/blog/best-dental-equipment-financing/",
@@ -858,7 +858,29 @@
         "dimensions": "1672x941",
         "source": "Generated original editorial image with built-in imagegen on 2026-09-19."
       },
-      "notes": "Selected as the next medium-priority pending workbook keyword after best manufacturing equipment financing was live verified. No neutral materially useful YouTube video was included."
+      "notes": "Selected as the next medium-priority pending workbook keyword after best manufacturing equipment financing; custom-domain verification passed on the second live attempt after Cloudflare propagation. No neutral materially useful YouTube video was included.",
+      "commit": "0be148d8441b18f93bb48dbb76c0629c48a2b2c1",
+      "verifiedAt": "2026-09-19T20:35:00+02:00",
+      "verification": {
+        "checksAttempted": 2,
+        "articleHttpStatus": 200,
+        "imageHttpStatus": 200,
+        "h1": "Best Dental Equipment Financing Options for 2026",
+        "canonical": "https://equipmentsfinance.com/blog/best-dental-equipment-financing/",
+        "featuredImage": "https://equipmentsfinance.com/assets/best-dental-equipment-financing.jpg",
+        "blogIndex": "present",
+        "sitemap": "present",
+        "desktopRender": "passed_live_browser",
+        "mobileRender": "passed_live_browser"
+      },
+      "build": {
+        "npmCi": "success",
+        "npmRunBuild": "success",
+        "npmRunLintIfPresent": "no configured script",
+        "npmTestIfPresent": "no configured script",
+        "githubActionsBuild": "success",
+        "githubActionsRun": "https://github.com/hsutech/equipmentsfinance-com/actions/runs/35461612569"
+      }
     }
   ],
   "extraCampaigns": [
