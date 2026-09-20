@@ -1,6 +1,6 @@
 {
   "domain": "equipmentsfinance.com",
-  "lastUpdated": "2026-09-19T20:35:00+02:00",
+  "lastUpdated": "2026-09-20T09:25:00+02:00",
   "items": [
     {
       "keyword": "best equipment financing companies in the USA",
@@ -881,6 +881,39 @@
         "githubActionsBuild": "success",
         "githubActionsRun": "https://github.com/hsutech/equipmentsfinance-com/actions/runs/35461612569"
       }
+    },
+    {
+      "keyword": "best landscaping equipment financing",
+      "priority": "Media",
+      "status": "draft_reviewed",
+      "slug": "best-landscaping-equipment-financing",
+      "title": "Best Landscaping Equipment Financing Options for 2026",
+      "url": "https://equipmentsfinance.com/blog/best-landscaping-equipment-financing/",
+      "publicationDate": "2026-09-20",
+      "serpObservations": {
+        "intent": "Commercial BOFU comparison for U.S. and Texas landscaping and lawn care business owners choosing financing for mowers, trailers, compact equipment, irrigation tools, snow-removal equipment and seasonal crew packages.",
+        "pageTypes": "Current relevant results mix lender landing pages, small-business financing guides, industry association advice and broad equipment-loan explainers. Strong pages use direct answers, option comparisons, loan-versus-lease sections, documentation guidance, FAQs and cash-flow notes.",
+        "coverage": "SERP covers lawn care equipment loans, business loans, leases, dealer financing, SBA-backed paths, credit requirements, equipment eligibility, repayment terms, seasonality, useful life and tax/depreciation caveats.",
+        "gaps": "The article adds a landscaping-specific package framework around mowers, trailers, attachments, irrigation and snow gear, seasonal payment fit, repair reserves, working-capital separation and useful-life matching while avoiding overlap with construction, farm, heavy equipment and used equipment articles."
+      },
+      "sources": [
+        "https://www.nav.com/blog/landscaping-equipment-financing-1034795/",
+        "https://blog.landscapeprofessionals.org/long-term-or-short-term-choosing-the-right-equipment-loan-for-your-business/",
+        "https://www.sba.gov/funding-programs/loans/7a-loans",
+        "https://www.sba.gov/funding-programs/loans/504-loans",
+        "https://www.irs.gov/publications/p946"
+      ],
+      "review": {
+        "editorial": "Passed draft review 2026-09-20: BOFU listicle intent, original landscaping seasonality and crew-package angle, direct answer, comparison table, FAQs, no fabricated rates, reviews, rankings or first-hand testing claims, and non-promotional company mention.",
+        "seo": "Passed draft review 2026-09-20: unique H1, title/meta, canonical, Open Graph, Article schema, Breadcrumb schema, FAQ schema, real internal links, authoritative external links, featured image alt and sitemap/blog index updates."
+      },
+      "image": {
+        "path": "src/assets/best-landscaping-equipment-financing.jpg",
+        "alt": "Commercial landscaping mower, trailer and financing paperwork at a jobsite staging yard",
+        "dimensions": "1672x941",
+        "source": "Generated original editorial image with built-in imagegen on 2026-09-20."
+      },
+      "notes": "Selected as the next medium-priority pending workbook keyword after best dental equipment financing. No neutral materially useful YouTube video was included."
     }
   ],
   "extraCampaigns": [
