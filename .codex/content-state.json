@@ -1,6 +1,6 @@
 {
   "domain": "equipmentsfinance.com",
-  "lastUpdated": "2026-09-20T09:25:00+02:00",
+  "lastUpdated": "2026-09-20T09:22:00+02:00",
   "items": [
     {
       "keyword": "best equipment financing companies in the USA",
@@ -885,7 +885,7 @@
     {
       "keyword": "best landscaping equipment financing",
       "priority": "Media",
-      "status": "draft_reviewed",
+      "status": "published",
       "slug": "best-landscaping-equipment-financing",
       "title": "Best Landscaping Equipment Financing Options for 2026",
       "url": "https://equipmentsfinance.com/blog/best-landscaping-equipment-financing/",
@@ -913,7 +913,31 @@
         "dimensions": "1672x941",
         "source": "Generated original editorial image with built-in imagegen on 2026-09-20."
       },
-      "notes": "Selected as the next medium-priority pending workbook keyword after best dental equipment financing. No neutral materially useful YouTube video was included."
+      "notes": "Selected as the next medium-priority pending workbook keyword after best dental equipment financing; custom-domain verification passed on the first live HTTP attempt after GitHub Actions/Cloudflare deployment completed. No neutral materially useful YouTube video was included.",
+      "commit": "3ce5ac76c14c9e713c7ae8d3f593cfc0dfb90adf",
+      "verifiedAt": "2026-09-20T09:22:00+02:00",
+      "verification": {
+        "checksAttempted": 1,
+        "articleHttpStatus": 200,
+        "imageHttpStatus": 200,
+        "h1": "Best Landscaping Equipment Financing Options for 2026",
+        "canonical": "https://equipmentsfinance.com/blog/best-landscaping-equipment-financing/",
+        "featuredImage": "https://equipmentsfinance.com/assets/best-landscaping-equipment-financing.jpg",
+        "blogIndex": "present",
+        "sitemap": "present",
+        "desktopRender": "passed_live_browser",
+        "mobileRender": "passed_live_browser"
+      },
+      "build": {
+        "npmCi": "success",
+        "npmRunBuild": "success",
+        "npmRunLintIfPresent": "no configured script",
+        "npmTestIfPresent": "no configured script",
+        "githubActionsBuild": "success",
+        "githubActionsRun": "https://github.com/hsutech/equipmentsfinance-com/actions/runs/35496568278",
+        "localPreview": "passed HTTP/build checks and in-app browser desktop 1600x900 plus mobile 390x844; no global overflow; image loaded; console clean",
+        "livePreview": "passed custom-domain HTTP checks plus desktop 1280x720 and mobile 390x844 browser render; image loaded; console clean"
+      }
     }
   ],
   "extraCampaigns": [
