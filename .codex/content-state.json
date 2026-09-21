@@ -1,6 +1,6 @@
 {
   "domain": "equipmentsfinance.com",
-  "lastUpdated": "2026-09-20T09:22:00+02:00",
+  "lastUpdated": "2026-09-21T09:00:00+02:00",
   "items": [
     {
       "keyword": "best equipment financing companies in the USA",
@@ -938,6 +938,40 @@
         "localPreview": "passed HTTP/build checks and in-app browser desktop 1600x900 plus mobile 390x844; no global overflow; image loaded; console clean",
         "livePreview": "passed custom-domain HTTP checks plus desktop 1280x720 and mobile 390x844 browser render; image loaded; console clean"
       }
+    },
+    {
+      "keyword": "best gym equipment financing",
+      "priority": "Media",
+      "status": "draft_reviewed",
+      "slug": "best-gym-equipment-financing",
+      "title": "Best Gym Equipment Financing Options for 2026",
+      "url": "https://equipmentsfinance.com/blog/best-gym-equipment-financing/",
+      "publicationDate": "2026-09-21",
+      "serpObservations": {
+        "intent": "Commercial BOFU comparison for U.S. and Texas gym, fitness studio and health-club owners choosing financing for cardio equipment, strength machines, studio packages, soft costs and opening cash flow.",
+        "pageTypes": "Current relevant results mix lender listicles, gym-specific lender landing pages, equipment financing explainers and official SBA/IRS guidance. Strong pages use direct answers, lender/option comparisons, qualification notes, author/editor signals, FAQs and loan-versus-lease guidance.",
+        "coverage": "SERP covers gym equipment loans, leasing, vendor financing, online lenders, bank loans, SBA-backed routes, credit and revenue requirements, funding speed, soft-cost financing, collateral, repayment terms and tax/depreciation caveats.",
+        "gaps": "The article adds a gym-specific package framework around cardio, strength, studio equipment, installation, member-revenue ramp, technology refresh cycles, working-capital separation and useful-life matching while avoiding overlap with startup, used and generic equipment financing articles."
+      },
+      "sources": [
+        "https://www.nerdwallet.com/business/loans/best/gym-equipment-financing",
+        "https://www.nationalfunding.com/industries/fitness/equipment-financing",
+        "https://equipmentfinance.amerisbank.com/fitness-equipment-financing/",
+        "https://www.sba.gov/funding-programs/loans/7a-loans",
+        "https://www.sba.gov/funding-programs/loans/504-loans",
+        "https://www.irs.gov/publications/p946"
+      ],
+      "review": {
+        "editorial": "Passed draft review 2026-09-21: BOFU listicle intent, original gym equipment package and member-revenue angle, direct answer, comparison table, FAQs, no fabricated rates, reviews, rankings or first-hand testing claims, and non-promotional company mention.",
+        "seo": "Passed draft review 2026-09-21: unique H1, title/meta, canonical, Open Graph, Article schema, Breadcrumb schema, FAQ schema, real internal links, authoritative external links, featured image alt and sitemap/blog index updates."
+      },
+      "image": {
+        "path": "src/assets/best-gym-equipment-financing.jpg",
+        "alt": "Commercial gym equipment, financing paperwork and tablet in a modern fitness studio",
+        "dimensions": "1672x941",
+        "source": "Generated original editorial image with built-in imagegen on 2026-09-21."
+      },
+      "notes": "Selected as the next medium-priority pending workbook keyword after best landscaping equipment financing. No neutral materially useful YouTube video was included."
     }
   ],
   "extraCampaigns": [
