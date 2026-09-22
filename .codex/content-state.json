@@ -1,6 +1,6 @@
 {
   "domain": "equipmentsfinance.com",
-  "lastUpdated": "2026-09-21T09:36:04+02:00",
+  "lastUpdated": "2026-09-22T09:03:00+02:00",
   "items": [
     {
       "keyword": "best equipment financing companies in the USA",
@@ -996,6 +996,36 @@
         "localPreview": "passed HTTP/browser checks in in-app browser at desktop/default and mobile 390x844; image loaded; no global overflow",
         "livePreview": "passed custom-domain HTTP checks plus desktop 1280x720 and mobile 390x844 browser render; image loaded; blog index and sitemap present"
       }
+    },
+    {
+      "keyword": "equipment financing requirements",
+      "priority": "Baja",
+      "status": "draft_reviewed",
+      "slug": "equipment-financing-requirements",
+      "title": "Equipment Financing Requirements: What Lenders Check in 2026",
+      "url": "https://equipmentsfinance.com/blog/equipment-financing-requirements/",
+      "publicationDate": "2026-09-22",
+      "serpObservations": {
+        "intent": "BOFU and late-stage informational search for U.S. and Texas business owners preparing to apply for equipment financing.",
+        "pageTypes": "Top relevant results are requirement guides, equipment-financing explainers and application-prep pages with quick answers, tables, document checklists, FAQs, author/editor signals and soft CTAs.",
+        "coverage": "SERP covers owner credit, business credit, time in business, revenue, bank statements, equipment quote or invoice, down payment, SBA-backed alternatives, useful life, collateral and common documents.",
+        "gaps": "The article adds a lender-file checklist organized by borrower, cash flow, asset, seller and business purpose, plus profile-specific guidance for startups, credit-challenged borrowers and larger-ticket files."
+      },
+      "sources": [
+        "https://axiantpartners.com/equipment-financing/articles/equipment-financing-requirements/",
+        "https://www.lendingtree.com/business/equipment/",
+        "https://www.nav.com/business-financing-options/what-is-equipment-financing/",
+        "https://www.bankrate.com/loans/small-business/how-to-get-equipment-loan/",
+        "https://www.sba.gov/loans/7a-loans/",
+        "https://www.sba.gov/loans/504-loans/",
+        "https://www.irs.gov/publications/p946",
+        "https://www.youtube.com/watch?v=yAx4SRG_bfs"
+      ],
+      "review": {
+        "editorial": "Passed draft review 2026-09-22: BOFU requirement-checklist intent, direct answer, practical table, profile-specific advice, no fabricated reviews/prices/approval promises and discreet company mention.",
+        "seo": "Passed draft review 2026-09-22: unique H1, title/meta, canonical, Open Graph, Article schema, Breadcrumb schema, FAQ schema, real internal links, external sources, YouTube embed and featured image alt."
+      },
+      "notes": "Selected as next pending workbook keyword after best gym equipment financing; pending build, push and live verification."
     }
   ],
   "extraCampaigns": [
