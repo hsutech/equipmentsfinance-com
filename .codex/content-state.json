@@ -1,6 +1,6 @@
 {
   "domain": "equipmentsfinance.com",
-  "lastUpdated": "2026-09-23T09:00:00+02:00",
+  "lastUpdated": "2026-09-23T09:16:00+02:00",
   "items": [
     {
       "keyword": "best equipment financing companies in the USA",
@@ -1053,7 +1053,7 @@
     {
       "keyword": "equipment financing rates explained",
       "priority": "Baja",
-      "status": "draft_reviewed",
+      "status": "published",
       "slug": "equipment-financing-rates-explained",
       "title": "Equipment Financing Rates Explained for 2026",
       "url": "https://equipmentsfinance.com/blog/equipment-financing-rates-explained/",
@@ -1081,7 +1081,31 @@
         "dimensions": "1800x1013",
         "source": "Generated original editorial image with built-in imagegen on 2026-09-23."
       },
-      "notes": "Selected as the next low-priority pending workbook keyword after equipment financing requirements. No YouTube embed was included because searched videos were lender/promotional or not materially better than written sources."
+      "notes": "Published after GitHub Actions/Cloudflare success and custom-domain QA passed on live verification attempts. No YouTube embed was included because searched videos were lender/promotional or not materially better than written sources.",
+      "commit": "135675cd00081a5b7945f340210846d9de0ce561",
+      "verifiedAt": "2026-09-23T09:16:00+02:00",
+      "verification": {
+        "checksAttempted": 2,
+        "articleHttpStatus": 200,
+        "imageHttpStatus": 200,
+        "h1": "Equipment Financing Rates Explained for 2026",
+        "canonical": "https://equipmentsfinance.com/blog/equipment-financing-rates-explained/",
+        "featuredImage": "https://equipmentsfinance.com/assets/equipment-financing-rates-explained.jpg",
+        "blogIndex": "present",
+        "sitemap": "present",
+        "desktopRender": "passed_live_browser",
+        "mobileRender": "passed_live_browser"
+      },
+      "build": {
+        "npmCi": "success",
+        "npmRunBuild": "success",
+        "npmRunLintIfPresent": "success_no_script_configured",
+        "npmTestIfPresent": "success_no_script_configured",
+        "githubActionsBuild": "success",
+        "githubActionsRun": "https://github.com/hsutech/equipmentsfinance-com/actions/runs/35830611602",
+        "localPreview": "passed HTTP/browser checks at desktop 1600x900 and mobile 390x844; image loaded; no global overflow; console clean",
+        "livePreview": "passed custom-domain HTTP checks plus desktop 1280x720 and mobile 390x844 browser render; image loaded; blog index and sitemap present"
+      }
     }
   ],
   "extraCampaigns": [
