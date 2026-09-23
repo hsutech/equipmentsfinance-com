@@ -1,6 +1,6 @@
 {
   "domain": "equipmentsfinance.com",
-  "lastUpdated": "2026-09-22T09:18:00+02:00",
+  "lastUpdated": "2026-09-23T09:00:00+02:00",
   "items": [
     {
       "keyword": "best equipment financing companies in the USA",
@@ -1049,6 +1049,39 @@
         "githubActionsBuild": "success",
         "githubActionsRun": "https://github.com/hsutech/equipmentsfinance-com/actions/runs/35698660618"
       }
+    },
+    {
+      "keyword": "equipment financing rates explained",
+      "priority": "Baja",
+      "status": "draft_reviewed",
+      "slug": "equipment-financing-rates-explained",
+      "title": "Equipment Financing Rates Explained for 2026",
+      "url": "https://equipmentsfinance.com/blog/equipment-financing-rates-explained/",
+      "publicationDate": "2026-09-23",
+      "serpObservations": {
+        "intent": "BOFU and late-stage informational search for U.S. and Texas business owners comparing equipment financing rate quotes and total borrowing cost.",
+        "pageTypes": "Current relevant results mix equipment financing guides, rate-range tables, lender explainers, APR-versus-rate sections, payment examples, author/editor signals and FAQs.",
+        "coverage": "SERP covers broad APR ranges, bank/SBA versus online lender differences, factor rates, credit tiers, down payments, term length, equipment age, fees, soft costs, benchmark rates and SBA-backed options.",
+        "gaps": "The article adds a practical written-offer comparison framework that normalizes APR, stated rate, factor rate, fees, payment frequency, down payment, total repayment, useful-life fit and cash-flow stress testing."
+      },
+      "sources": [
+        "https://www.nerdwallet.com/business/loans/learn/equipment-financing",
+        "https://www.sba.gov/loans/7a-loans/",
+        "https://www.sba.gov/loans/504-loans/",
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
+        "https://www.irs.gov/publications/p946"
+      ],
+      "review": {
+        "editorial": "Passed draft review 2026-09-23: BOFU rate-comparison intent, direct answer, SERP-aligned structure, practical table, no fabricated rates, reviews, rankings, approvals or first-hand claims, and discreet company mention.",
+        "seo": "Passed draft review 2026-09-23: unique H1, title/meta, canonical, Open Graph, Article schema, Breadcrumb schema, FAQ schema, real internal links, authoritative external links, featured image alt and sitemap/blog index updates."
+      },
+      "image": {
+        "path": "src/assets/equipment-financing-rates-explained.jpg",
+        "alt": "Business owner comparing equipment financing rate offers, calculator and machinery quote",
+        "dimensions": "1800x1013",
+        "source": "Generated original editorial image with built-in imagegen on 2026-09-23."
+      },
+      "notes": "Selected as the next low-priority pending workbook keyword after equipment financing requirements. No YouTube embed was included because searched videos were lender/promotional or not materially better than written sources."
     }
   ],
   "extraCampaigns": [
