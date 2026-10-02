@@ -1,6 +1,6 @@
 {
   "domain": "equipmentsfinance.com",
-  "lastUpdated": "2026-10-02T09:00:00+02:00",
+  "lastUpdated": "2026-10-02T12:11:00+02:00",
   "items": [
     {
       "keyword": "best equipment financing companies in the USA",
@@ -1110,7 +1110,7 @@
     {
       "keyword": "how to finance equipment with bad credit",
       "priority": "Baja",
-      "status": "draft_reviewed",
+      "status": "published",
       "slug": "how-to-finance-equipment-with-bad-credit",
       "title": "How to Finance Equipment With Bad Credit in 2026",
       "url": "https://equipmentsfinance.com/blog/how-to-finance-equipment-with-bad-credit/",
@@ -1140,7 +1140,31 @@
         "dimensions": "1672x941",
         "source": "Generated original editorial image with built-in imagegen on 2026-10-02."
       },
-      "notes": "Draft reviewed in the article commit. Do not mark published until custom-domain QA passes."
+      "notes": "Published after GitHub Actions/Cloudflare success and custom-domain QA passed. Existing bad-credit listicle cannibalization avoided by using a step-by-step application and offer-comparison angle rather than another lender ranking.",
+      "commit": "a829592fe755493809bd9ac01b7789a42d13b2c6",
+      "verifiedAt": "2026-10-02T12:11:00+02:00",
+      "verification": {
+        "checksAttempted": 1,
+        "articleHttpStatus": 200,
+        "imageHttpStatus": 200,
+        "h1": "How to Finance Equipment With Bad Credit in 2026",
+        "canonical": "https://equipmentsfinance.com/blog/how-to-finance-equipment-with-bad-credit/",
+        "featuredImage": "https://equipmentsfinance.com/assets/how-to-finance-equipment-with-bad-credit.jpg",
+        "blogIndex": "present",
+        "sitemap": "present",
+        "desktopRender": "passed_live_browser",
+        "mobileRender": "passed_live_browser"
+      },
+      "build": {
+        "npmCi": "success",
+        "npmRunBuild": "success",
+        "npmRunLintIfPresent": "success_no_script_configured",
+        "npmTestIfPresent": "success_no_script_configured",
+        "githubActionsBuild": "success",
+        "githubActionsRun": "https://github.com/hsutech/equipmentsfinance-com/actions/runs/36993872598",
+        "localPreview": "passed in-app browser checks at desktop 1600x900 and mobile 390x844; image loaded; no material overflow; console clean",
+        "livePreview": "passed custom-domain HTTP checks plus desktop 1280x720 and mobile 390x844 browser render; image loaded; blog index and sitemap present"
+      }
     }
   ],
   "extraCampaigns": [
