@@ -1,6 +1,6 @@
 {
   "domain": "equipmentsfinance.com",
-  "lastUpdated": "2026-09-23T09:16:00+02:00",
+  "lastUpdated": "2026-10-02T09:00:00+02:00",
   "items": [
     {
       "keyword": "best equipment financing companies in the USA",
@@ -1106,6 +1106,41 @@
         "localPreview": "passed HTTP/browser checks at desktop 1600x900 and mobile 390x844; image loaded; no global overflow; console clean",
         "livePreview": "passed custom-domain HTTP checks plus desktop 1280x720 and mobile 390x844 browser render; image loaded; blog index and sitemap present"
       }
+    },
+    {
+      "keyword": "how to finance equipment with bad credit",
+      "priority": "Baja",
+      "status": "draft_reviewed",
+      "slug": "how-to-finance-equipment-with-bad-credit",
+      "title": "How to Finance Equipment With Bad Credit in 2026",
+      "url": "https://equipmentsfinance.com/blog/how-to-finance-equipment-with-bad-credit/",
+      "publicationDate": "2026-10-02",
+      "serpObservations": {
+        "intent": "BOFU and late-stage informational search for U.S. and Texas business owners who need a practical process for financing equipment with damaged, thin or recently challenged credit.",
+        "pageTypes": "Current relevant results mix bad-credit equipment loan listicles, how-to qualification guides, no-credit-check explainers, credit-score context, lender tables, calculators, author/editor signals, tables of contents and FAQs.",
+        "coverage": "SERP covers organizing finances, strengthening an application, down payments, lender comparison, equipment collateral, credit-score ranges, no-credit-check caveats, equipment resale value, SBA-backed routes and documentation.",
+        "gaps": "The article avoids duplicating the existing bad-credit listicle by focusing on a step-by-step application plan, compensating factors, written-offer normalization, red flags, seller documentation and cash-flow stress testing."
+      },
+      "sources": [
+        "https://www.nerdwallet.com/business/loans/learn/no-credit-check-equipment-financing",
+        "https://axiantpartners.com/equipment-financing/articles/equipment-financing-bad-credit/",
+        "https://www.merchantmaverick.com/no-credit-check-equipment-financing/",
+        "https://www.myfico.com/credit-education/credit-scores",
+        "https://www.sba.gov/loans/7a-loans/",
+        "https://www.sba.gov/loans/504-loans/",
+        "https://www.irs.gov/publications/p946"
+      ],
+      "review": {
+        "editorial": "Passed draft review 2026-10-02: distinct step-by-step BOFU intent, direct answer, SERP-aligned structure, no fabricated approvals, prices, reviews, rankings or first-hand claims, and discreet company mention.",
+        "seo": "Passed draft review 2026-10-02: unique H1, title/meta, canonical, Open Graph, Article schema, Breadcrumb schema, FAQ schema, real internal links, authoritative external links, featured image alt, YouTube overview embed and sitemap/blog index updates."
+      },
+      "image": {
+        "path": "src/assets/how-to-finance-equipment-with-bad-credit.jpg",
+        "alt": "Business owner organizing equipment financing documents and comparing offers on a laptop",
+        "dimensions": "1672x941",
+        "source": "Generated original editorial image with built-in imagegen on 2026-10-02."
+      },
+      "notes": "Draft reviewed in the article commit. Do not mark published until custom-domain QA passes."
     }
   ],
   "extraCampaigns": [
