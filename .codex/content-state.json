@@ -1,6 +1,6 @@
 {
   "domain": "equipmentsfinance.com",
-  "lastUpdated": "2026-10-02T12:11:00+02:00",
+  "lastUpdated": "2026-10-05T00:00:00+02:00",
   "items": [
     {
       "keyword": "best equipment financing companies in the USA",
@@ -1165,6 +1165,41 @@
         "localPreview": "passed in-app browser checks at desktop 1600x900 and mobile 390x844; image loaded; no material overflow; console clean",
         "livePreview": "passed custom-domain HTTP checks plus desktop 1280x720 and mobile 390x844 browser render; image loaded; blog index and sitemap present"
       }
+    },
+    {
+      "keyword": "equipment financing without a large down payment",
+      "priority": "Baja",
+      "status": "draft_reviewed",
+      "slug": "equipment-financing-without-a-large-down-payment",
+      "title": "Equipment Financing Without a Large Down Payment in 2026",
+      "url": "https://equipmentsfinance.com/blog/equipment-financing-without-a-large-down-payment/",
+      "publicationDate": "2026-10-05",
+      "serpObservations": {
+        "intent": "BOFU and late-stage informational search for U.S. and Texas business owners comparing no-money-down, 100% financing and low-down-payment equipment finance options before applying.",
+        "pageTypes": "Current results mix lender guides, bank product pages, zero-down explainers, no-money-down comparisons, qualification tables, calculators, FAQs and application CTAs; most pages use author/editor signals and direct answers.",
+        "coverage": "SERP covers 100% financing, no down payment language, credit and time-in-business requirements, new versus used equipment, resale value, dealer/vendor financing, leases, SBA-backed paths, fees, first/last payments and soft costs.",
+        "gaps": "The article clarifies total cash due at signing, distinguishes no large down payment from true zero cash due, adds a cash-reserve stress test and avoids duplicating requirements, rates or bad-credit articles by focusing on the upfront-cash tradeoff."
+      },
+      "sources": [
+        "https://axiantpartners.com/equipment-financing/articles/equipment-financing-no-money-down/",
+        "https://www.usbank.com/business-banking/banking-products/business-lending/business-loans/equipment-financing.html",
+        "https://www.smbcompass.com/equipment-financing-no-money-down/",
+        "https://www.firstcitizens.com/small-business/credit-financing/equipment-financing-leasing/equipment-financing",
+        "https://www.sba.gov/loans/7a-loans/",
+        "https://www.sba.gov/loans/504-loans/",
+        "https://www.irs.gov/publications/p946"
+      ],
+      "review": {
+        "editorial": "Passed draft review 2026-10-05: BOFU low-down-payment intent, direct answer, SERP-aligned structure, comparison table, practical checklist, no fabricated rates/reviews/approval promises or first-hand claims, and discreet company mention.",
+        "seo": "Passed draft review 2026-10-05: unique H1, title/meta, canonical, Open Graph, Article schema, Breadcrumb schema, FAQ schema, real internal links, authoritative external links, featured image alt and sitemap/blog index updates."
+      },
+      "image": {
+        "path": "src/assets/equipment-financing-without-a-large-down-payment.jpg",
+        "alt": "Business owner comparing low-down-payment equipment financing offers with an equipment quote and calculator",
+        "dimensions": "1672x941",
+        "source": "Generated original editorial image with built-in imagegen on 2026-10-05."
+      },
+      "notes": "Draft prepared from remote main. No YouTube embed was included because searched videos were lender/promotional and did not materially improve the article."
     }
   ],
   "extraCampaigns": [
