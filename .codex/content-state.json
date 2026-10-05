@@ -1,6 +1,6 @@
 {
   "domain": "equipmentsfinance.com",
-  "lastUpdated": "2026-10-05T00:00:00+02:00",
+  "lastUpdated": "2026-10-05T12:10:00+02:00",
   "items": [
     {
       "keyword": "best equipment financing companies in the USA",
@@ -1169,7 +1169,7 @@
     {
       "keyword": "equipment financing without a large down payment",
       "priority": "Baja",
-      "status": "draft_reviewed",
+      "status": "published",
       "slug": "equipment-financing-without-a-large-down-payment",
       "title": "Equipment Financing Without a Large Down Payment in 2026",
       "url": "https://equipmentsfinance.com/blog/equipment-financing-without-a-large-down-payment/",
@@ -1199,7 +1199,31 @@
         "dimensions": "1672x941",
         "source": "Generated original editorial image with built-in imagegen on 2026-10-05."
       },
-      "notes": "Draft prepared from remote main. No YouTube embed was included because searched videos were lender/promotional and did not materially improve the article."
+      "notes": "Published after GitHub Actions/Cloudflare success and custom-domain QA passed on first live verification attempt. No YouTube embed was included because searched videos were lender/promotional and did not materially improve the article.",
+      "commit": "36cc805316da8df4a7ab5c76a0050b99833a375f",
+      "verifiedAt": "2026-10-05T12:10:00+02:00",
+      "verification": {
+        "checksAttempted": 1,
+        "articleHttpStatus": 200,
+        "imageHttpStatus": 200,
+        "h1": "Equipment Financing Without a Large Down Payment in 2026",
+        "canonical": "https://equipmentsfinance.com/blog/equipment-financing-without-a-large-down-payment/",
+        "featuredImage": "https://equipmentsfinance.com/assets/equipment-financing-without-a-large-down-payment.jpg",
+        "blogIndex": "present",
+        "sitemap": "present",
+        "desktopRender": "passed_live_browser",
+        "mobileRender": "passed_live_browser"
+      },
+      "build": {
+        "npmCi": "success",
+        "npmRunBuild": "success",
+        "npmRunLintIfPresent": "success_no_script_configured",
+        "npmTestIfPresent": "success_no_script_configured",
+        "githubActionsBuild": "success",
+        "githubActionsRun": "https://github.com/hsutech/equipmentsfinance-com/actions/runs/37294407203",
+        "localPreview": "passed in-app browser desktop render on localhost; mobile responsive CSS/static checks passed; local sandbox curl could not reach elevated server but server logs showed 200 for article and image",
+        "livePreview": "passed custom-domain HTTP checks plus desktop 1280x720 and mobile 390x844 browser render; image loaded; no horizontal overflow; blog index and sitemap present"
+      }
     }
   ],
   "extraCampaigns": [
