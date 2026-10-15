@@ -1,6 +1,6 @@
 {
   "domain": "equipmentsfinance.com",
-  "lastUpdated": "2026-10-05T12:10:00+02:00",
+  "lastUpdated": "2026-10-15",
   "items": [
     {
       "keyword": "best equipment financing companies in the USA",
@@ -1224,6 +1224,64 @@
         "localPreview": "passed in-app browser desktop render on localhost; mobile responsive CSS/static checks passed; local sandbox curl could not reach elevated server but server logs showed 200 for article and image",
         "livePreview": "passed custom-domain HTTP checks plus desktop 1280x720 and mobile 390x844 browser render; image loaded; no horizontal overflow; blog index and sitemap present"
       }
+    },
+    {
+      "keyword": "equipment leasing alternatives",
+      "slug": "equipment-leasing-alternatives",
+      "title": "7 Equipment Leasing Alternatives for Your Business",
+      "url": "https://equipmentsfinance.com/blog/equipment-leasing-alternatives/",
+      "priority": "Baja",
+      "status": "validated",
+      "publicationDate": "2026-10-15",
+      "researchDate": "2026-10-15",
+      "wordCount": 1892,
+      "serpObservations": {
+        "market": "English, USA/Texas query intent; web search is not a location-locked Google Texas rank capture.",
+        "intent": "Commercial comparison of access versus ownership, with loan/lease/cash comparisons and lender explainers.",
+        "reviewed": [
+          {
+            "url": "https://www.nerdwallet.com/business/loans/learn/equipment-leasing",
+            "observations": "Approximately 1200-1600 editorial words excluding navigation/ads; named writers Karrin Sehmbi and Rosalie Murphy, editor Sally Lauckner; updated date, fact-check signals, comparison table, lease types, providers, tax section, video thumbnail. No prominent TOC found in extracted body."
+          },
+          {
+            "url": "https://www.lendingtree.com/business/equipment/",
+            "observations": "Long lender comparison and equipment-loan guide, roughly 2000-3000 words by extracted text; loan selection, qualifications and financing structure comparisons; commercial lead-generation format. Length is approximate, not a measured SERP average."
+          }
+        ],
+        "additionalResults": "LeaseSource, Axiant Partners, First Capital Funding, Nolo, US Chamber, Stacking Capital surfaced. Full-page access to LeaseSource, Axiant and First Capital failed; snippets were not used as factual evidence. No claim of complete top-10 inspection.",
+        "gaps": "Include non-credit choices: rental, used purchase, outsourced output; equal-horizon cost example; existing lease exit obligation.",
+        "entities": [
+          "SBA 7(a)",
+          "SBA 504",
+          "IRS Publication 946",
+          "equipment loan",
+          "rental",
+          "resale value",
+          "working capital"
+        ],
+        "questions": [
+          "Closest substitute?",
+          "Is buying cheaper?",
+          "Can startups qualify?",
+          "Is sale-leaseback a substitute?",
+          "Can an existing lease be canceled?"
+        ]
+      },
+      "sources": [
+        "https://www.sba.gov/counseling/manage-your-business/",
+        "https://www.sba.gov/loans/7a-loans/",
+        "https://www.sba.gov/loans/504-loans/",
+        "https://www.irs.gov/publications/p946"
+      ],
+      "cannibalization": "Broad alternatives shortlist distinct from the existing two-way loan-versus-lease article; links to it and used-equipment guide. No duplicate slug on remote main.",
+      "review": {
+        "secondPass": "Separate editorial/SEO pass completed; removed inherited Open Graph description, used organization authorship rather than attributing unverified human authorship. Reviewed numeric example, claims, 5 visible/schema FAQs, 3 body internal links and 4 primary external citations.",
+        "originality": "Original synthesis, no first-hand testing, rankings, lender pricing or invented reviews.",
+        "assets": "Original built-in imagegen illustration, 1672x941 JPEG, descriptive alt, AI caption.",
+        "video": "Omitted: a general equipment primer would not materially improve this alternatives decision guide.",
+        "checks": "npm ci and production build passed; no lint/test scripts configured; H1, canonical, OG, JSON-LD, links, TOC, image, blog and sitemap passed. No feed exists. Local desktop/mobile visual checks passed; observed CSS viewports 1600 and 487 px despite requested 1280 and 390 overrides."
+      },
+      "imagePrompt": "Wide 16:9 editorial illustration: workshop with generic industrial machine, desk with calculator, keys and plain paperwork suggesting purchase versus temporary rental; sage green, navy and cream; no text, brands or watermarks."
     }
   ],
   "extraCampaigns": [
