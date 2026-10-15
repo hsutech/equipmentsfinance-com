@@ -1231,7 +1231,7 @@
       "title": "7 Equipment Leasing Alternatives for Your Business",
       "url": "https://equipmentsfinance.com/blog/equipment-leasing-alternatives/",
       "priority": "Baja",
-      "status": "validated",
+      "status": "published",
       "publicationDate": "2026-10-15",
       "researchDate": "2026-10-15",
       "wordCount": 1892,
@@ -1281,7 +1281,23 @@
         "video": "Omitted: a general equipment primer would not materially improve this alternatives decision guide.",
         "checks": "npm ci and production build passed; no lint/test scripts configured; H1, canonical, OG, JSON-LD, links, TOC, image, blog and sitemap passed. No feed exists. Local desktop/mobile visual checks passed; observed CSS viewports 1600 and 487 px despite requested 1280 and 390 overrides."
       },
-      "imagePrompt": "Wide 16:9 editorial illustration: workshop with generic industrial machine, desk with calculator, keys and plain paperwork suggesting purchase versus temporary rental; sage green, navy and cream; no text, brands or watermarks."
+      "imagePrompt": "Wide 16:9 editorial illustration: workshop with generic industrial machine, desk with calculator, keys and plain paperwork suggesting purchase versus temporary rental; sage green, navy and cream; no text, brands or watermarks.",
+      "commit": "6c30aa41e5c1969bbcb2f7e2f6405f1dc65e4a73",
+      "verifiedAt": "2026-10-15T22:32:16.646083+00:00",
+      "verification": {
+        "checksAttempted": 2,
+        "articleHttpStatus": 200,
+        "imageHttpStatus": 200,
+        "imageBytes": 403658,
+        "h1": "7 Equipment Leasing Alternatives for Your Business",
+        "canonical": "https://equipmentsfinance.com/blog/equipment-leasing-alternatives/",
+        "blogIndex": "present",
+        "sitemap": "present",
+        "desktop": "1280px render passed",
+        "mobile": "390px render passed; scrollWidth equals innerWidth; image naturalWidth 1672",
+        "deployment": "GitHub Actions 38737208266 succeeded including Cloudflare Pages deploy",
+        "initialIssue": "First urllib request received 403; second request with browser User-Agent succeeded after deployment completion"
+      }
     }
   ],
   "extraCampaigns": [
