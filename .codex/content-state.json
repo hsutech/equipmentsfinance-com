@@ -1,6 +1,6 @@
 {
   "domain": "equipmentsfinance.com",
-  "lastUpdated": "2026-10-15",
+  "lastUpdated": "2026-10-20",
   "items": [
     {
       "keyword": "best equipment financing companies in the USA",
@@ -1298,6 +1298,73 @@
         "deployment": "GitHub Actions 38737208266 succeeded including Cloudflare Pages deploy",
         "initialIssue": "First urllib request received 403; second request with browser User-Agent succeeded after deployment completion"
       }
+    },
+    {
+      "keyword": "SBA loan vs equipment financing",
+      "priority": "Baja",
+      "workbookTopicNumber": 26,
+      "status": "draft_reviewed",
+      "slug": "sba-loan-vs-equipment-financing",
+      "title": "SBA Loan vs Equipment Financing: Compare 3 Routes",
+      "url": "https://equipmentsfinance.com/blog/sba-loan-vs-equipment-financing/",
+      "publicationDate": "2026-10-20",
+      "researchCheckedAt": "2026-10-19",
+      "market": "Texas and USA",
+      "language": "English",
+      "serpObservations": {
+        "queries": [
+          "SBA loan vs equipment financing comparison USA",
+          "SBA 504 vs equipment financing loan Texas"
+        ],
+        "limitation": "Current search results reviewed; no claim of location-locked Google Texas top-10 capture. EFN, Now Biz Fund and ClearValue appeared in results but full pages could not be fetched; excluded as factual evidence. Bankrate result redirected to category page.",
+        "intent": "BOFU financing comparison; direct verdict, table, cost, eligibility, collateral, timing, use of proceeds and FAQs.",
+        "results": [
+          {
+            "url": "https://brobascap.com/compare/sba-loan-vs-equipment-financing",
+            "observations": "Commercial comparison, approximately 500-800 visible words; corporate authorship, updated date, no named analyst in extracted text; verdict, comparison table, pros/cons, timeline/rate graphics, calculator links and FAQs. Truck focus. Overgeneralized cheaper/faster assertions and internally inconsistent rate comparisons are not adopted."
+          },
+          {
+            "url": "https://equipmentloansguide.com/equipment-financing-vs-sba-loans/",
+            "observations": "Long comparison explainer, approximately 2500-3500 words based on extracted article; no named author or TOC observed in extracted content; multiple editorial illustrations, H2 definitions, table, approval/cost/speed sections, pros/cons and FAQs. Entities: equipment lender, SBA, APR, collateral, working capital. Gap: separating 7(a) and 504 and concrete payment arithmetic."
+          },
+          {
+            "url": "https://www.nerdwallet.com/business/loans/learn/equipment-financing",
+            "observations": "Extensive commercial lender list and guide, approximately 4000-6000 words excluding site navigation, estimate only; Randa Kriss author and Sally Lauckner editor; lender cards, images/logos, ratings methodology, section links, pros/cons and requirements. SBA included as an equipment financing option. Gap for our narrow query: comparing binding offers instead of providers."
+          }
+        ],
+        "gaps": "Three-way conventional/7(a)/504 decision table, hypothetical amortization comparison, approval versus disbursement, combined 504 package cost, existing lien coordination and avoiding assumed refinance.",
+        "wordCountMethod": "Approximate ranges from readable extracted content, not exact DOM measurements."
+      },
+      "sources": [
+        "https://www.sba.gov/loans/7a-loans/",
+        "https://www.sba.gov/loans/504-loans/",
+        "https://www.sba.gov/sba-lenders/",
+        "https://www.ftc.gov/business-guidance/blog/2021/06/back-business-3-looking-small-business-financing"
+      ],
+      "cannibalization": "Remote main 7fdbb3f inspected. Existing SBA startup guide concerns startup project/ramp planning; existing equipment-vs-business-loan pages compare broader categories. New page compares conventional purchase loan, 7(a) and 504 written offers for established businesses and links to startup guide. No duplicate slug or target keyword page.",
+      "claims": {
+        "verified": [
+          "7(a) permits machinery/installation, working capital and multipurpose loans; lender application; $5m maximum.",
+          "504 equipment minimum remaining useful life 10 years; no working capital/inventory; CDC and senior lender.",
+          "7(a) rates may be fixed/variable subject to applicable limits.",
+          "FTC recommends identifying provider before sharing confidential information."
+        ],
+        "editorialInference": [
+          "Which route merits a quote depends on project scope, deadline and written terms."
+        ],
+        "firsthandEvidence": [],
+        "numericExample": "$100k, monthly amortization: 10%/60 payments 2124.704471 and total 127482.268268; 9%/120 payments 1266.757738 and total 152010.928500. Explicitly hypothetical."
+      },
+      "review": {
+        "secondPass": "Separate editorial and SEO reread completed. Simplified credit-elsewhere jargon and removed editorial scope language; verified example arithmetic. No universal lower-rate/speed claims, lender endorsements, promised approval or unverified named author.",
+        "seo": "Unique H1, matching title/description/canonical/OG, Article/Breadcrumb/FAQ JSON-LD, five matching visible FAQs, four internal and four primary external body links. Existing blog card and sitemap updated; no feed found.",
+        "video": "Omitted: discovered YouTube comparison is an older promotional coaching video; no material benefit over current sourced comparison.",
+        "local": "npm ci/build passed; lint/test scripts absent. Image optimized JPEG 1672x941, 272231 bytes. Local browser image loaded, desktop and mobile observed; 390px CSS viewport has no document overflow; no console errors.",
+        "bodyWordCount": 1803
+      },
+      "imagePrompt": "Wide 16:9 editorial illustration of generic workshop machine and desk with two document folders, calculator and calendar; sage, navy and cream; no readable text, logos or seals.",
+      "imageTool": "built-in imagegen",
+      "imagePath": "src/assets/sba-loan-vs-equipment-financing.jpg"
     }
   ],
   "extraCampaigns": [
