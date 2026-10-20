@@ -1303,7 +1303,7 @@
       "keyword": "SBA loan vs equipment financing",
       "priority": "Baja",
       "workbookTopicNumber": 26,
-      "status": "draft_reviewed",
+      "status": "pushed_unverified",
       "slug": "sba-loan-vs-equipment-financing",
       "title": "SBA Loan vs Equipment Financing: Compare 3 Routes",
       "url": "https://equipmentsfinance.com/blog/sba-loan-vs-equipment-financing/",
@@ -1364,7 +1364,44 @@
       },
       "imagePrompt": "Wide 16:9 editorial illustration of generic workshop machine and desk with two document folders, calculator and calendar; sage, navy and cream; no readable text, logos or seals.",
       "imageTool": "built-in imagegen",
-      "imagePath": "src/assets/sba-loan-vs-equipment-financing.jpg"
+      "imagePath": "src/assets/sba-loan-vs-equipment-financing.jpg",
+      "commit": "59b41c7d642795b9715d7c9dd6be110ef43c5e2a",
+      "verification": {
+        "checkedAt": "2026-10-20T03:26:52.107065+00:00",
+        "attempt": 1,
+        "checks": {
+          "/blog/sba-loan-vs-equipment-financing/": {
+            "status": 200,
+            "bytes": 26240,
+            "containsSlug": true,
+            "h1": [
+              "SBA Loan vs Equipment Financing: Compare 3 Routes"
+            ],
+            "canonical": [
+              "https://equipmentsfinance.com/blog/sba-loan-vs-equipment-financing/"
+            ],
+            "imagePresent": true
+          },
+          "/assets/sba-loan-vs-equipment-financing.jpg": {
+            "status": 200,
+            "bytes": 272231,
+            "contentType": "image/jpeg"
+          },
+          "/blog/": {
+            "status": 200,
+            "bytes": 21355,
+            "containsSlug": true
+          },
+          "/sitemap.xml": {
+            "status": 200,
+            "bytes": 6107,
+            "containsSlug": true
+          }
+        },
+        "passed": true,
+        "complete": false,
+        "blocker": "Live browser navigation denied by automatic approval review after timeout; public mobile/desktop render could not be verified. HTTP article/image/blog/sitemap checks passed. GitHub Actions API connection reset. Operational verification time limit exceeded; no further live attempts."
+      }
     }
   ],
   "extraCampaigns": [
