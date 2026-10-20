@@ -1,0 +1,125 @@
+{
+  "keyword": "equipment financing application checklist",
+  "market": "Texas and USA",
+  "language": "English",
+  "checkedAt": "2026-10-20",
+  "method": "Current web search and opened relevant organic-result pages. Not a location-locked Google Texas top-ten capture. Approximate lengths refer to accessible editorial text, excluding navigation, and are not exact counts.",
+  "intent": "Late-stage informational/BOFU: assemble documents and avoid submission delays, then apply. A checklist is better aligned than a lender ranking.",
+  "results": [
+    {
+      "url": "https://www.commercialcreditgroup.com/checklist/equipment-loan-application-document-checklist",
+      "observed": "Lender download landing page, roughly 150-300 words of landing copy; company attribution, featured checklist image, short process bullets, no visible long TOC. Addresses changed business details for existing customers. Download contents not inspected."
+    },
+    {
+      "url": "https://fundingcompass.guide/guides/equipment-financing-checklist",
+      "observed": "Long checklist guide, roughly 1200-1700 words; review date, key takeaways, equipment and financial headings, guarantee discussion, SBA comparison table, FAQs, CTA; no named author visible in extracted page. Claims numerical cutoffs and timing; not adopted as factual evidence."
+    },
+    {
+      "url": "https://axiantpartners.com/equipment-financing/articles/how-to-apply-equipment-financing/",
+      "observed": "Broker guide, roughly 1000-1400 words; five steps, document bullets, TOC, FAQs and application CTAs; company branding and broker disclosure. Credit-pull messaging is inconsistent across body and footer; no universal credit or timing claims adopted."
+    },
+    {
+      "url": "https://www.equipmentfundingnetwork.com/blog/documents-needed-equipment-financing",
+      "observed": "Company-authored dated guide, roughly 1100-1500 words; simplified versus full packages, document categories, exceptions, before-funding list and errors. No prominent image/video or TOC visible in extraction. Several universal claims avoided."
+    },
+    {
+      "url": "https://equipmentfinancereview.com/guides/equipment-financing-documents",
+      "observed": "Opened result returned directory-style navigation rather than expected article; excluded from body-length and content analysis."
+    },
+    {
+      "url": "https://pipefile.com/templates/equipment-financing-checklist",
+      "observed": "Search result offers free PDF/checklist; open failed, so no body structure or length claim."
+    },
+    {
+      "url": "https://machinefunded.com/blog/equipment-financing-application-checklist",
+      "observed": "Search result shows named editor and application guide; open failed, so no verified authorship credentials or length."
+    },
+    {
+      "url": "https://www.capitalizefunding.com/resources/funding-calculators/interactive-documents-checklist/",
+      "observed": "Search result offers interactive document checklist; open failed."
+    },
+    {
+      "url": "https://leaseworldusa.com/project-checklist/",
+      "observed": "Search result offers financing inquiry checklist; open failed."
+    },
+    {
+      "url": "https://equipmentleasing.finance/equipment-financing-application-checklist",
+      "observed": "Search result addresses costs, risks and terms; open failed."
+    }
+  ],
+  "coverage": [
+    "Business identity and EIN",
+    "Owner information and credit consent",
+    "Bank statements and tax returns",
+    "Current P&L and balance sheet",
+    "Debt schedule",
+    "Equipment invoice and seller",
+    "Insurance and acceptance"
+  ],
+  "questions": [
+    "Are tax returns required?",
+    "How many months of statements?",
+    "Can I apply before selecting equipment?",
+    "Does a complete file guarantee approval?",
+    "What if a document is missing?"
+  ],
+  "gapsAndOriginalAngle": [
+    "Explicit document ownership and version control",
+    "Separate requested documents from universal requirements",
+    "Reconcile financed amount against complete project cost",
+    "Separate uploaded, accepted for review, approved and funded",
+    "Handle DBA and official-record differences without altering records",
+    "Disclose missing records and distinguish forecasts from history"
+  ],
+  "brief": {
+    "title": "Equipment Financing Application Checklist: 7 Steps",
+    "targetWords": "1800-2200, chosen for actionable seven-stage workflow; not claimed as a precise competitor mean",
+    "internalLinks": [
+      "/blog/equipment-financing-requirements/",
+      "/blog/best-used-equipment-financing/",
+      "/blog/equipment-financing-rates-explained/",
+      "/credit-application/"
+    ],
+    "video": "Omitted: a general IRS EIN video is linked by the IRS but would distract from the application checklist; no useful neutral application-specific video established.",
+    "firsthandEvidence": "None; no customer reviews, tests or underwriting experience claimed"
+  },
+  "sources": [
+    {
+      "url": "https://www.irs.gov/businesses/employer-identification-number",
+      "supports": "Finding existing EIN; do not guess identity data. IRS normalization rules mean exact punctuation equality should not be asserted."
+    },
+    {
+      "url": "https://www.commercialcreditgroup.com/checklist/equipment-loan-application-document-checklist",
+      "supports": "Provider's checklist recognizes documentation changes for existing customers."
+    },
+    {
+      "url": "https://www.sba.gov/loans/7a-loans/",
+      "supports": "Application contents vary by loan size and processing method; participating lender specifies individual documents."
+    },
+    {
+      "url": "https://www.ftc.gov/business-guidance/blog/2021/06/back-business-3-looking-small-business-financing",
+      "supports": "Verify provider before confidential disclosure; obtain written explanations of terms."
+    }
+  ],
+  "editorialInference": "Organization and reconciliation workflow is original editorial guidance, not a lender policy or regulatory checklist.",
+  "mustNotClaim": [
+    "Guaranteed approval or funding timing",
+    "Universal tax-return or bank-statement counts",
+    "Universal hard-pull or guarantee rules",
+    "Specific lender approval thresholds",
+    "Unverified personal experience"
+  ],
+  "image": {
+    "mode": "Built-in image_gen",
+    "path": "src/assets/equipment-financing-application-checklist.jpg",
+    "prompt": "Use case: stylized-concept. Asset type: wide featured editorial image for an equipment financing application checklist article. Create a refined editorial illustration showing an organized workshop office desk with a clipboard with simple blank checkbox marks, three tidy document folders, a calculator and pen; industrial workshop machinery visible softly in the background. Calm navy, sage green and warm cream palette, natural daylight, clean professional composition, landscape 16:9. No readable words, numbers, logos, seals, watermarks or real branded equipment. Clearly an illustration rather than documentary photography.",
+    "alt": "Illustration of a checklist, organized binders and calculator on a desk in an equipment workshop",
+    "dimensions": "1672x941",
+    "attribution": "AI-generated editorial illustration, visibly captioned"
+  },
+  "secondPass": {
+    "method": "Separate editorial review after complete draft, followed by structural assertions and build.",
+    "findings": "No unsupported product rates, invented author or guarantees. Original practical workflow distinct from eligibility page. The draft initially contained only three internal links; added the relevant rates-and-costs guide before publication.",
+    "claimLimits": "Primary-source summaries kept short; competitor observations inform format without copying text or adopting unsupported thresholds."
+  }
+}
