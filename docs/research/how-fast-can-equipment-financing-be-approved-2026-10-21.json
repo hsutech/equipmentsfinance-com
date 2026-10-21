@@ -1,0 +1,80 @@
+{
+  "keyword": "how fast can equipment financing be approved",
+  "checkedAt": "2026-10-21T08:10:38.775056+00:00",
+  "market": "USA / Texas",
+  "language": "English",
+  "searchQuery": "how fast can equipment financing be approved funding timeline USA",
+  "limitations": "Current web search results, not a location-locked Google Texas top-ten capture. Approximate body lengths are editorial estimates from retrieved text, not audited counts.",
+  "serp": [
+    {
+      "url": "https://axiantpartners.com/equipment-financing/articles/how-fast-can-equipment-financing-be-approved/",
+      "observations": "Commercial timing guide; roughly 1500-2200 words; quick answer, stages, factors, preparation, FAQ; updated date, no individual byline observed; image and calculator; no prominent TOC in retrieved text. Broad timing claims not adopted as industry averages."
+    },
+    {
+      "url": "https://www.fivewestfinancial.com/blog/how-does-equipment-financing-work.html",
+      "observations": "Provider process guide; about 2000-2500 words, displayed 11-minute read; named managing partner Michael Bruemmer, dated September 30; TOC, numbered process, timing comparison, cost discussion and FAQ. Self-reported best-case speed explicitly attributed in our article."
+    },
+    {
+      "url": "https://dimensionfunding.com/equipment-financing-funding-timelines/",
+      "observations": "Vendor-facing commercial article, roughly 1200-1700 words; August 19 date, GEO label rather than credentialed individual byline; stage table and FAQ, approval versus payout focus; no video or prominent TOC observed. Gap: buyer deadline and cost tradeoff."
+    },
+    {
+      "url": "https://www.firstusfinance.com/business-finance-questions/",
+      "observations": "Company FAQ, roughly 600-900 words excluding navigation; short Q&A, no visible article date or individual editorial byline; no TOC or substantive multimedia. Distinguishes decision and whole-process timing."
+    },
+    {
+      "url": "https://alwayscapital.com/equipment-financing-approval-time/",
+      "observations": "Search snippet showed five stages and timeline table; full fetch failed, excluded from factual evidence."
+    }
+  ],
+  "brief": {
+    "format": "BOFU timing guide with seven questions and milestone table",
+    "targetWords": "1800-2200",
+    "angle": "Compare a promised decision with payment and operational deadlines; include cutoff/time-zone questions and a hypothetical Friday-to-Monday scenario.",
+    "cannibalization": "Existing checklist covers document assembly; requirements guide covers eligibility; this page covers timing interpretation, dependencies and urgent-offer comparison. No existing timing-focused slug or H1 found.",
+    "video": "Omitted; no verified neutral video adds necessary evidence to this timing decision."
+  },
+  "sources": [
+    {
+      "url": "https://www.fivewestfinancial.com/blog/how-does-equipment-financing-work.html",
+      "kind": "provider primary source"
+    },
+    {
+      "url": "https://www.firstusfinance.com/business-finance-questions/",
+      "kind": "provider primary source"
+    },
+    {
+      "url": "https://www.sba.gov/loans/7a-loans/",
+      "kind": "government primary source"
+    },
+    {
+      "url": "https://www.ftc.gov/business-guidance/blog/2021/06/back-business-3-looking-small-business-financing",
+      "kind": "government primary source"
+    }
+  ],
+  "claims": {
+    "verified": [
+      "Provider pages contain the explicitly attributed conditional timing statements.",
+      "SBA 7(a) applications are through lenders; documents depend on size and processing method; machinery purchase and installation are listed uses.",
+      "FTC advises provider vetting and written answers."
+    ],
+    "externalObservations": [
+      "Provider speed claims are not independently verified performance."
+    ],
+    "editorialInferences": [
+      "Four-clock framework and seven questions are decision aids, not underwriting policy.",
+      "Deadline example is hypothetical."
+    ],
+    "firsthandEvidence": []
+  },
+  "mustNotClaim": [
+    "Universal approval SLA",
+    "Guaranteed funding",
+    "Company-specific speed promise",
+    "Independently tested lender ranking"
+  ],
+  "image": {
+    "prompt": "Wide editorial workshop illustration with clock, blank calendar, document folder and delivery truck model; navy/sage/cream, no text/logos/approval stamps.",
+    "path": "src/assets/how-fast-can-equipment-financing-be-approved.jpg"
+  }
+}
