@@ -1,6 +1,6 @@
 {
   "domain": "equipmentsfinance.com",
-  "lastUpdated": "2026-10-20T18:27:22.321133+00:00",
+  "lastUpdated": "2026-10-21T08:04:38.805731+00:00",
   "items": [
     {
       "keyword": "best equipment financing companies in the USA",
@@ -1414,7 +1414,7 @@
     {
       "keyword": "equipment financing application checklist",
       "priority": "Baja",
-      "status": "validated",
+      "status": "pushed_unverified",
       "slug": "equipment-financing-application-checklist",
       "title": "Equipment Financing Application Checklist: 7 Steps",
       "url": "https://equipmentsfinance.com/blog/equipment-financing-application-checklist/",
@@ -1438,6 +1438,44 @@
         "productionBuild": "passed; Eleventy 51 pages",
         "lint": "not configured; --if-present exited 0",
         "tests": "not configured; --if-present exited 0"
+      },
+      "commit": "2b45933d375ae635779b733001ed1bc96c2f7d2e",
+      "verification": {
+        "checkedAt": "2026-10-21T08:04:20.977564+00:00",
+        "attempt": 1,
+        "checks": {
+          "/blog/equipment-financing-application-checklist/": {
+            "status": 200,
+            "bytes": 27951,
+            "h1": [
+              "Equipment Financing Application Checklist: 7 Steps"
+            ],
+            "canonical": [
+              "https://equipmentsfinance.com/blog/equipment-financing-application-checklist/"
+            ],
+            "imagePresent": true
+          },
+          "/assets/equipment-financing-application-checklist.jpg": {
+            "status": 200,
+            "bytes": 293115,
+            "contentType": "image/jpeg"
+          },
+          "/blog/": {
+            "status": 200,
+            "bytes": 21806,
+            "articlePresent": true
+          },
+          "/sitemap.xml": {
+            "status": 200,
+            "bytes": 6238,
+            "articlePresent": true
+          }
+        },
+        "passed": true,
+        "complete": false,
+        "deployment": "GitHub Actions 39475139509 and Cloudflare deployment succeeded",
+        "localRender": "Reviewed desktop and mobile preview; images loaded, mobile measured 390 CSS px with document width 390. Browser capture scaling anomaly noted.",
+        "blocker": "Run resumed on October 21 after live HTTP verification command; operational 20-minute limit exceeded before public desktop/mobile visual QA. No additional live attempts permitted. HTTP article/image/blog/sitemap passed; public render remains unverified."
       }
     }
   ],
