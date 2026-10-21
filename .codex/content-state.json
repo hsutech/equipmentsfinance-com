@@ -1,6 +1,6 @@
 {
   "domain": "equipmentsfinance.com",
-  "lastUpdated": "2026-10-21T08:10:38.775056+00:00",
+  "lastUpdated": "2026-10-21T08:13:47.918799+00:00",
   "items": [
     {
       "keyword": "best equipment financing companies in the USA",
@@ -1487,7 +1487,7 @@
     {
       "keyword": "how fast can equipment financing be approved",
       "priority": "Baja",
-      "status": "validated",
+      "status": "published",
       "slug": "how-fast-can-equipment-financing-be-approved",
       "title": "How Fast Can Equipment Financing Be Approved?",
       "url": "https://equipmentsfinance.com/blog/how-fast-can-equipment-financing-be-approved/",
@@ -1513,6 +1513,45 @@
         "tests": "not configured",
         "structuralSeo": "passed",
         "localRender": "Desktop and mobile reviewed; all images loaded, mobile viewport measured 487 CSS px with equal document width; browser screenshot scaling anomaly."
+      },
+      "commit": "1540c9a2d0f7deb4b842451850049e600699e9d0",
+      "verifiedAt": "2026-10-21T08:13:47.918799+00:00",
+      "verification": {
+        "checkedAt": "2026-10-21T08:12:58.105464+00:00",
+        "attempt": 1,
+        "checks": {
+          "/blog/how-fast-can-equipment-financing-be-approved/": {
+            "status": 200,
+            "bytes": 26783,
+            "h1": [
+              "How Fast Can Equipment Financing Be Approved?"
+            ],
+            "canonical": [
+              "https://equipmentsfinance.com/blog/how-fast-can-equipment-financing-be-approved/"
+            ],
+            "imagePresent": true
+          },
+          "/assets/how-fast-can-equipment-financing-be-approved.jpg": {
+            "status": 200,
+            "bytes": 314451,
+            "imageValid": true
+          },
+          "/blog/": {
+            "status": 200,
+            "bytes": 22243,
+            "articlePresent": true
+          },
+          "/sitemap.xml": {
+            "status": 200,
+            "bytes": 6372,
+            "articlePresent": true
+          }
+        },
+        "passed": true,
+        "complete": true,
+        "deployment": "GitHub Actions 39567509072 / Cloudflare success",
+        "publicDesktop": "1280px, expected H1 and layout, all images loaded, no overflow",
+        "publicMobile": "390x844, screenshot reviewed at hero and image/TOC; document width 390, all images loaded, no console errors"
       }
     }
   ],
