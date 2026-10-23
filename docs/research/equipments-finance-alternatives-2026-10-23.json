@@ -1,0 +1,56 @@
+{
+  "keyword": "Equipments Finance alternatives",
+  "checkedAt": "2026-10-23T11:15:00.264314+00:00",
+  "market": "US / Texas",
+  "language": "English",
+  "serp": {
+    "limitation": "Current web search, not a location-locked Google Texas top-ten capture. Exact brand queries surfaced own home/about pages and irrelevant foreign results; no verifiable independent brand-review evidence found. Broader equipment-financing alternatives query used to assess format.",
+    "results": [
+      {
+        "url": "https://www.lendingtree.com/business/equipment/",
+        "observations": "Commercial comparison; estimated 3000-4500 words, authors Lindsay Frankel/Katie Ziraldo, editor Jackie Zimmermann Farrar, jump TOC, author photos, comparison tables, lender pros/cons, FAQ, methodology. Entities: banks, specialist lenders, loan/lease/rent. Gap: same-invoice comparison and overlapping provider channels."
+      },
+      {
+        "url": "https://www.nerdwallet.com/business/loans/learn/equipment-financing",
+        "observations": "Commercial lender list/guide, estimated 4000-6000 words excluding navigation, writer/editor framework and rating methodology, lender cards/logos, tables, qualification and pros/cons sections. Broader lender-ranking intent; no independent evidence specific to this brand."
+      },
+      {
+        "url": "https://www.usbank.com/business-banking/banking-products/business-lending/business-loans/equipment-financing.html",
+        "observations": "Official product landing page, estimated 700-1100 words excluding navigation, corporate authorship, product features/icons, application steps and FAQs; no editorial TOC. Covers assets, soft costs and payment options."
+      }
+    ],
+    "wordCountMethod": "Approximate readable-content estimates, not exact DOM word counts.",
+    "questions": [
+      "Which alternative addresses my specific constraint?",
+      "Who is the actual lender?",
+      "What happens at the end?",
+      "Can I switch after approval?"
+    ],
+    "gap": "Publisher-disclosed guide for comparing a current brand proposal with alternative channels; no fabricated ranking."
+  },
+  "sources": [
+    "https://www.usbank.com/business-banking/banking-products/business-lending/business-loans/equipment-financing.html",
+    "https://www.sba.gov/loans/7a-loans/",
+    "https://www.sba.gov/loans/504-loans/",
+    "https://www.ftc.gov/business-guidance/blog/2021/06/back-business-3-looking-small-business-financing"
+  ],
+  "claims": {
+    "firsthand": [],
+    "verified": [
+      "U.S. Bank advertises new/used equipment and soft-cost/payment schedule options.",
+      "7(a) eligible equipment and working-capital uses, lender application.",
+      "504 equipment remaining life minimum 10 years; no working capital/inventory; CDC and senior lender.",
+      "FTC recommends provider identity checks and written terms."
+    ],
+    "inference": "Seven routes are a practical shortlist, not a performance ranking.",
+    "example": "5000+48*1150=60200;60*1080=64800;difference=4600. Hypothetical; not APR."
+  },
+  "cannibalization": "Existing USA comparison targets general provider choice; leasing-alternatives targets buy versus access; reviews article targets review credibility. New article specifically targets a branded competing-offer comparison and switching obligations; no duplicate slug.",
+  "imagePrompt": "Wide editorial illustration, seven blank document folders and calculator on workshop desk, generic machine background, navy/sage/cream, no text/logos.",
+  "video": "Omitted: no verified neutral brand-specific video established; generic video does not materially improve this offer-comparison guide.",
+  "review": {
+    "editorial": "Separate second pass checked claims, disclosure, financial limitations, numeric arithmetic, distinct intent and original phrasing. No ratings, guaranteed outcomes or firsthand claims.",
+    "seo": "One H1; matching canonical/OG/schema; five visible FAQs reflected in schema; four internal and four primary external body links; responsive scrollable table."
+  },
+  "wordCount": 1751
+}
