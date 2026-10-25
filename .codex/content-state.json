@@ -1,6 +1,6 @@
 {
   "domain": "equipmentsfinance.com",
-  "lastUpdated": "2026-10-23",
+  "lastUpdated": "2026-10-25T19:04:34.570094+00:00",
   "items": [
     {
       "keyword": "best equipment financing companies in the USA",
@@ -1568,7 +1568,7 @@
     {
       "keyword": "Equipments Finance alternatives",
       "priority": "Baja",
-      "status": "pushed_unverified",
+      "status": "published",
       "slug": "equipments-finance-alternatives",
       "title": "7 Equipments Finance Alternatives to Compare",
       "url": "https://equipmentsfinance.com/blog/equipments-finance-alternatives/",
@@ -1593,6 +1593,44 @@
         "tests": "not configured",
         "structuralSeo": "passed",
         "localRender": "Desktop and mobile reviewed; 390 CSS px document width, all images loaded. Browser screenshot scaling artifact noted."
+      },
+      "commit": "5d2434e46453f32f3e785dc2522ad319ad330f15",
+      "verifiedAt": "2026-10-25T19:04:34.570094+00:00",
+      "verification": {
+        "checkedAt": "2026-10-25T19:04:01.118748+00:00",
+        "attempt": 1,
+        "checks": {
+          "/blog/equipments-finance-alternatives/": {
+            "status": 200,
+            "bytes": 25614,
+            "articlePresent": true,
+            "h1": [
+              "7 Equipments Finance Alternatives to Compare"
+            ],
+            "canonical": [
+              "https://equipmentsfinance.com/blog/equipments-finance-alternatives/"
+            ]
+          },
+          "/assets/equipments-finance-alternatives.jpg": {
+            "status": 200,
+            "bytes": 393623
+          },
+          "/blog/": {
+            "status": 200,
+            "bytes": 22673,
+            "articlePresent": true
+          },
+          "/sitemap.xml": {
+            "status": 200,
+            "bytes": 6493,
+            "articlePresent": true
+          }
+        },
+        "passed": true,
+        "complete": true,
+        "deployment": "GitHub Actions 39944993861 Deploy to Cloudflare Pages: success",
+        "publicDesktop": "1280x800 screenshot reviewed; document width 1280; all images loaded",
+        "publicMobile": "390x844 hero and image/TOC screenshots reviewed; document width 390; all images loaded"
       }
     }
   ],
